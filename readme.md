@@ -14,7 +14,7 @@ Assignments
 1. [Read: 02 - The Coder's Computer](Assignments/read02.md) *Complete*
 1. [Lab: 03 - Revisions and the Cloud](Assignments/lab03.md) *Complete*
 1. [Lab: 04 - Structure web pages with HTML](https://trevorstubbs.github.io/coolcats/) *Complete*
-1. [Read 03](Assignment/read03.md) *Complete*
+1. [Read: 03 - Revisions and the Cloud](Assignment/read03.md) *Complete*
 1. Read 04
 
 Notes
