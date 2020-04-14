@@ -1,9 +1,9 @@
 # Code 102
 
 Assignments
-1. Professional Competency
+1. [Professional Competency](Assignments/Professional_Comp.md)
 1. [Lab 01a](Assignments/lab01a.md) (Complete)
-1. Lab 01b
+1. [Lab 01b](Assignments/lab01b.md)
 1. Lab 02
 1. Reading 01
 1. Reading 02
