@@ -2,7 +2,7 @@
 
 Assignments
 1. Professional Competency
-1. Lab 01a (Complete)
+1. [Lab 01a](Assignments/lab01a.md) (Complete)
 1. Lab 01b
 1. Lab 02
 1. Reading 01
