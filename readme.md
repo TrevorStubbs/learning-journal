@@ -1,5 +1,7 @@
 # Code 102
 
+Hi there, My name is Trevor Stubbs. I am a displaced aviation professional. I am here to learn how to design and build software that will make our lives easier.  I have been playing with computers my whole life but it feels like I've never really understood how these things work. I can't wait to get my hands dirty.
+
 Assignments
 1. [Professional Competency](Assignments/Professional_Comp.md)
 1. [Lab 01a](Assignments/lab01a.md) *Complete*
