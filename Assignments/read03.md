@@ -60,7 +60,15 @@ ___
 
 `git stash apply` after pulling from origin master you can apply the stashed commits in place.
 
-##
+## Remote Repositories
+
+`git remote` returns the name of the remote repo
+
+`git remote -v` returns the remote URLs (push and pull)
+
+`git remote add shortname url` creates a new remote git repository with a short name
+
+
 ___
 
 
