@@ -4,6 +4,7 @@
 # Git Terminal Cheat Sheet
 
 ## Config and Help
+___
 `git config -- global user.name "Jane Smith"` sets the signature name
 - `git config --global user.name` returns the signature name
 
@@ -20,7 +21,8 @@ man git-*command*
 ```
 
 ## Setting up a Repo
-### Importing
+___
+## Importing
 
 `git init` initializes the folder into a git repo
 
@@ -28,7 +30,7 @@ man git-*command*
 
 `git commit -m "First Commit"` commits everything from the staging area to the repo
 
-### Cloning
+## Cloning
 
 `git clone [url]` Clone the repo from github into current folder
 
@@ -44,6 +46,21 @@ man git-*command*
 
 `git add *` adds all files in a repo
 
+## Committing
+
+`git commit -m "message"` commit staged items to repo
+
+`git commit -a` commits a snapshot of all mods.
+
+## Pushing Changes
+
+`git push origin master` pushes local changes to remote repository names 'origin'
+
+`git stash` hides current commits so you can pull from master to prevent a merge conflict.
+
+`git stash apply` after pulling from origin master you can apply the stashed commits in place.
+
+##
 ___
 
 
@@ -54,3 +71,16 @@ ___
 ### [Git Add](https://git-scm.com/docs/git-add) [option]
 
 
+### Getting Username and Password to be saved in windows
+
+`git config --global credential.helper store`
+check to see if its good at `~cat .gitconfig`
+
+Should look like:
+```
+[user]
+    email = name@email.com
+    name = Jane Doe
+[credential]
+    helper = store
+```
