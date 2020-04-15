@@ -15,7 +15,7 @@ Assignments
 1. [Lab: 03 - Revisions and the Cloud](Assignments/lab03.md) *Complete*
 1. [Lab: 04 - Structure web pages with HTML](https://trevorstubbs.github.io/coolcats/) *Complete*
 1. [Read: 03 - Revisions and the Cloud](Assignments/read03.md) *Complete*
-1. Read 04
+1. [Read: 04 - Structure web pages with HTML](Assignments/read04.md) *Complete*
 
 Notes
 1. [Day 1](Notes/102Day1Notes.md)
