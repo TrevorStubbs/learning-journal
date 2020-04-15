@@ -10,3 +10,9 @@
 `mv -f [fromLocation] [toLocation]`
 
 ## Using CSS
+element 
+selector
+property
+value
+css rule
+declaration
