@@ -16,12 +16,13 @@ Assignments
 1. [Lab: 04 - Structure web pages with HTML](https://trevorstubbs.github.io/coolcats/) *Complete*
 1. [Read: 03 - Revisions and the Cloud](Assignments/read03.md) *Complete*
 1. [Read: 04 - Structure web pages with HTML](Assignments/read04.md) *Complete*
-1. [Lab: 05 - Design web pages with CSS](Assignments/read05.md) *Complete*
+1. [Lab: 05 - Design web pages with CSS](Assignments/lab05.md) *Complete*
 1. Lab: 06 - Activate web pages with JavaScript
-1. Read: 05 - Design web pages with CSS
+1. [Read: 05 - Design web pages with CSS](Assignments/read05.md) *Complete*
 1. Read: 06a - Dynamic web pages with JavaScript
 1. Read: 06b - Computer Architecture and Logic
 
 Notes
 1. [Day 1](Notes/102Day1Notes.md)
 1. [Day 2](Notes/102Day2Notes.md)
+1. [Day 3](Notes/102Day3Notes.md)
