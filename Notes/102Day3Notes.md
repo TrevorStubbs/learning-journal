@@ -32,3 +32,25 @@ Classes are not element type specific.
 
 [margin](https://www.w3schools.com/css/css_margin.asp): top right bottom left
 
+### Why CSS and JS in seperate files
+- Code Maint
+- Programmers are lazy
+- Separation of concern
+
+### CSS Reset
+- gets rid of include browser styles
+
+### CSS Seletor 
+- a code block is the CSS rule
+```CSS
+ul {
+    color: red:    
+}
+```
+color:red - declaration
+color - property
+red - value
+
+## Javascript
+
+'use strict' forces JS to be more strongly typed.
