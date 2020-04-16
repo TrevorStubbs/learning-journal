@@ -4,8 +4,9 @@
 ### MVP
 - minium viable product
 
-functions
-loops
-array
-conditionals
+- Main Goals of 201
+    - functions
+    - loops
+    - array
+    - conditionals
 
