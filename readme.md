@@ -25,7 +25,7 @@ Labs
 1. [Lab: 04 - Structure web pages with HTML](https://trevorstubbs.github.io/coolcats/) *Complete*
 1. [Lab: 05 - Design web pages with CSS](Assignments/lab05.md) *Complete*
 1. [Lab: 06 - Activate web pages with JavaScript](Assignments/lab06.md) *Complete*
-1. Lab: 07 - Programming with JavaScript
+1. [Lab: 07 - Programming with JavaScript](Assignment/lab07.md) *Complete*
 1. Lab: 08 - Operators and Loops
 
 Notes
