@@ -19,8 +19,8 @@ Assignments
 1. [Lab: 05 - Design web pages with CSS](Assignments/lab05.md) *Complete*
 1. [Lab: 06 - Activate web pages with JavaScript](Assignments/lab06.md) *Complete*
 1. [Read: 05 - Design web pages with CSS](Assignments/read05.md) *Complete*
-1. [Read: 06a - Dynamic web pages with JavaScript](Assignments/read06a.md) *Complete*
-1. Read: 06b - Computer Architecture and Logic
+1. [Read: 06a - Dynamic web pages with JavaScript](Assignments/read06a.md)*Complete*
+1. [Read: 06b - Computer Architecture and Logic](Assignments/read06b.md) *Complete*
 
 Notes
 1. [Day 1](Notes/102Day1Notes.md)
