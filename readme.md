@@ -14,7 +14,7 @@ Reading
 1. [Read: 06a - Dynamic web pages with JavaScript](Assignments/read06a.md)*Complete*
 1. [Read: 06b - Computer Architecture and Logic](Assignments/read06b.md) *Complete*
 1. [Read: 07 - Programming with JavaScript](Assignments/read07.md) *Complete*
-1. Read: 08 - Operators and Loops
+1. [Read: 08 - Operators and Loops](Assignments/read08.md) *Complete*
 
 Labs
 1. [Professional Competency](Assignments/Professional_Comp.md) *Complete*
