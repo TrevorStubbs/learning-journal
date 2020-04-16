@@ -3,3 +3,9 @@
 
 ### MVP
 - minium viable product
+
+functions
+loops
+array
+conditionals
+
