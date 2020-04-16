@@ -11,7 +11,7 @@
 - `>=` greater than or equal to
 - `<=` less than or equal to
 
-## Locial Operators
+## Logical Operators
 - `&&` and
 - `||` or
 - `!` not
@@ -40,7 +40,7 @@ for (var i = 0; i < 10; i++){
     - `continue` will tell the program to continue looping
 
 ### `While` Loops
-- a while loop uses to conditinal statment to tell it what to do
+- a while loop uses to conditional statement to tell it what to do
     - `while(x === true) {[expression];}`
 - a while loop will continue to do something along as the expression is true
 - Usually you have to build your own counter inside the loop
