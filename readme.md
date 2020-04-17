@@ -32,3 +32,4 @@ Notes
 1. [Day 1](Notes/102Day1Notes.md)
 1. [Day 2](Notes/102Day2Notes.md)
 1. [Day 3](Notes/102Day3Notes.md)
+1. [Day 4](Notes/102Day4Notes.md)
