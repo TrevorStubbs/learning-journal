@@ -26,7 +26,7 @@ Labs
 1. [Lab: 05 - Design web pages with CSS](Assignments/lab05.md) *Complete*
 1. [Lab: 06 - Activate web pages with JavaScript](Assignments/lab06.md) *Complete*
 1. [Lab: 07 - Programming with JavaScript](Assignments/lab07.md) *Complete*
-1. [Lab: 08 - Operators and Loops](\Assignments\read08.md) *Complete*
+1. [Lab: 08 - Operators and Loops](Assignments/lab08.md) *Complete*
 
 Notes
 1. [Day 1](Notes/102Day1Notes.md)
