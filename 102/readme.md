@@ -33,3 +33,5 @@ Notes
 1. [Day 2](Notes/102Day2Notes.md)
 1. [Day 3](Notes/102Day3Notes.md)
 1. [Day 4](Notes/102Day4Notes.md)
+
+[Return to Main](https://trevorstubbs.github.io/learning-journal/)
