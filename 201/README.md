@@ -4,18 +4,23 @@
 
 ### Reading Notes:
 #### Week 1
+
 - Read: 01 - Introductory HTML and JavaScript
 - Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
 - Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
 - Read: 04 - HTML Links, CSS Layout, JS Functions
 - Read: 05 - HTML Images; CSS Color & Text
+
 #### Week 2 
+
 - Read: 06 - JS Object Literals; The DOM
 - Read: 07 - HTML Tables; JS Constructor Functions
 - Read: 08 - More CSS Layout
 - Read: 09 - Forms and Events
 - Read: 10 - JS Debugging
+
 #### Week 3
+
 - Read: 11 - Assorted Topics
 - Read: 12 - Docs for the HTML `<canvas>` Element & Chart.js
 - Read: 13 -
@@ -25,6 +30,7 @@
 ---
 
 ### Labs:
+
 #### Week 1
 - [Lab: 01a - Creating a Reading Notes Repo]() *Complete*
 - Lab: 01b - Getting Up and Running!
@@ -34,7 +40,9 @@
 - Lab: 05a - Write some functions on Git branches!
 - Lab: 05b - Finish and deploy your About Me
 - Lab: 05c - CSS Selector Practice
+
 #### Week 2
+
 - Lab: 06 - Get started on the Salmon Cookies project
 - Lab: 07 - Add a constructor function to the cookie stand project
 - Lab: 08a - HTML/CSS Wireframe Exercise
@@ -43,7 +51,9 @@
 - Lab: 10a - Design comp (Chocolate Pizza)
 - Lab: 10b - Finish the salmon cookie stand project
 - Lab: 10c - Git Practice
+
 #### Week 3
+
 - Lab: 11 - Get started on BusMall
 - Lab: 12 - Add a chart to your BusMall app
 - Lab: 13 - Add local storage to BusMall
@@ -55,17 +65,22 @@
 
 ### Learning Journal:
 #### Week 1
+
 - Learning Journal: 02
 - Learning Journal: 03
 - Learning Journal: 04
 - Learning Journal: 05
+
 #### Week 2
+
 - Learning Journal: 06
 - Learning Journal: 07
 - Learning Journal: 08
 - Learning Journal: 09
 - Learning Journal: 10
+
 #### Week 3
+
 - Learning Journal: 11
 - Learning Journal: 12
 - Learning Journal: 13
@@ -76,6 +91,7 @@
 
 ### Career:
 #### Week 1
+
 - Career: Career Coaching Overview *Complete*
 - Career: Professional Competency Self-Assessment *Complete*
 - Career: Prepare Your Resume *Complete*
@@ -86,10 +102,14 @@
 - Career: Identify Your Accountability Partners
 - Career: Behavioral Interview Questions
 - Career: Partner Power Hour, Report #1
+
 #### Week 2
+
 - Career: Partner Power Hour, Report #2
 - Career: Targeted Job Search
+
 #### Week 3
+
 - Career: Give Your 60 Second Professional Pitch
 - Career: Partner Power Hour, Report #3
 - Career: Resume Review By Your Accountability Partners
@@ -100,18 +120,23 @@
 
 ### Notes:
 #### Week 1
+
 - Day 1
 - Day 2
 - Day 3
 - Day 4
 - Day 5
+
 #### Week 2
+
 - Day 6
 - Day 7
 - Day 8
 - Day 9
 - Day 10
+
 #### Week 3
+
 - Day 11
 - Day 12
 - Day 13
