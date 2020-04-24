@@ -4,23 +4,23 @@
 
 ### Reading Notes:
 #### Week 1
-1. Read: 01 - Introductory HTML and JavaScript
-1. Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
-1. Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
-1. Read: 04 - HTML Links, CSS Layout, JS Functions
-1. Read: 05 - HTML Images; CSS Color & Text
+- Read: 01 - Introductory HTML and JavaScript
+- Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
+- Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
+- Read: 04 - HTML Links, CSS Layout, JS Functions
+- Read: 05 - HTML Images; CSS Color & Text
 #### Week 2 
-1. Read: 06 - JS Object Literals; The DOM
-1. Read: 07 - HTML Tables; JS Constructor Functions
-1. Read: 08 - More CSS Layout
-1. Read: 09 - Forms and Events
-1. Read: 10 - JS Debugging
+- Read: 06 - JS Object Literals; The DOM
+- Read: 07 - HTML Tables; JS Constructor Functions
+- Read: 08 - More CSS Layout
+- Read: 09 - Forms and Events
+- Read: 10 - JS Debugging
 #### Week 3
-1. Read: 11 - Assorted Topics
-1. Read: 12 - Docs for the HTML `<canvas>` Element & Chart.js
-1. Read: 13 -
-1. Read: 14a - CSS Transforms, Transitions, and Animations
-1. Read: 14b - What Google Learned About Teams
+- Read: 11 - Assorted Topics
+- Read: 12 - Docs for the HTML `<canvas>` Element & Chart.js
+- Read: 13 -
+- Read: 14a - CSS Transforms, Transitions, and Animations
+- Read: 14b - What Google Learned About Teams
 ---
 ### Labs:
 #### Week 1
