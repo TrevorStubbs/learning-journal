@@ -92,11 +92,11 @@
 ### Career:
 #### Week 1
 
-- Career: Career Coaching Overview *Complete*
-- Career: Professional Competency Self-Assessment *Complete*
-- Career: Prepare Your Resume *Complete*
-- Career: Prepare Your LinkedIn *Complete*
-- Career: Social Media *Complete*
+- [Career: Career Coaching Overview](Career/AssignmentComplete.md) *Complete*
+- [Career: Professional Competency Self-Assessment](Career/AssignmentComplete.md) *Complete*
+- [Career: Prepare Your Resume](Career/AssignmentComplete.md) *Complete*
+- [Career: Prepare Your LinkedIn](https://www.linkedin.com/in/trevorstubbssea/) *Complete*
+- [Career: Social Media](https://www.linkedin.com/in/trevorstubbssea/) *Complete*
 - Career: Talk to Your Network
 - Career: Attend A Meetup
 - Career: Identify Your Accountability Partners
