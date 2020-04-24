@@ -24,90 +24,90 @@
 ---
 ### Labs:
 #### Week 1
-1. Lab: 01a - Creating a Reading Notes Repo
-1. Lab: 01b - Getting Up and Running!
-1. Lab: 02 - About Me, with a guessing game
-1. Lab: 03 - Extend your 'About Me' and guessing game
-1. Lab: 04 - Pair Programming: More extensions to About Me
-1. Lab: 05a - Write some functions on Git branches!
-1. Lab: 05b - Finish and deploy your About Me
-1. Lab: 05c - CSS Selector Practice
+- Lab: 01a - Creating a Reading Notes Repo
+- Lab: 01b - Getting Up and Running!
+- Lab: 02 - About Me, with a guessing game
+- Lab: 03 - Extend your 'About Me' and guessing game
+- Lab: 04 - Pair Programming: More extensions to About Me
+- Lab: 05a - Write some functions on Git branches!
+- Lab: 05b - Finish and deploy your About Me
+- Lab: 05c - CSS Selector Practice
 #### Week 2
-1. Lab: 06 - Get started on the Salmon Cookies project
-1. Lab: 07 - Add a constructor function to the cookie stand project
-1. Lab: 08a - HTML/CSS Wireframe Exercise
-1. Lab: 08b - Work on styling the cookie stand project
-1. Lab: 09 - Add a form to the cookie stand project
-1. Lab: 10a - Design comp (Chocolate Pizza)
-1. Lab: 10b - Finish the salmon cookie stand project
-1. Lab: 10c - Git Practice
+- Lab: 06 - Get started on the Salmon Cookies project
+- Lab: 07 - Add a constructor function to the cookie stand project
+- Lab: 08a - HTML/CSS Wireframe Exercise
+- Lab: 08b - Work on styling the cookie stand project
+- Lab: 09 - Add a form to the cookie stand project
+- Lab: 10a - Design comp (Chocolate Pizza)
+- Lab: 10b - Finish the salmon cookie stand project
+- Lab: 10c - Git Practice
 #### Week 3
-1. Lab: 11 - Get started on BusMall
-1. Lab: 12 - Add a chart to your BusMall app
-1. Lab: 13 - Add local storage to BusMall
-1. Lab: 14 - Create an Order Form and a Shopping Cart
-1. Lab: 15a - Merge conflicts with Bob, Carol, Ted, and Alice
-1. Lab: 15b - Finish with the BusMall app
+- Lab: 11 - Get started on BusMall
+- Lab: 12 - Add a chart to your BusMall app
+- Lab: 13 - Add local storage to BusMall
+- Lab: 14 - Create an Order Form and a Shopping Cart
+- Lab: 15a - Merge conflicts with Bob, Carol, Ted, and Alice
+- Lab: 15b - Finish with the BusMall app
 ---
 ### Learning Journal:
 #### Week 1
-1. Learning Journal: 02
-1. Learning Journal: 03
-1. Learning Journal: 04
-1. Learning Journal: 05
+- Learning Journal: 02
+- Learning Journal: 03
+- Learning Journal: 04
+- Learning Journal: 05
 #### Week 2
-1. Learning Journal: 06
-1. Learning Journal: 07
-1. Learning Journal: 08
-1. Learning Journal: 09
-1. Learning Journal: 10
+- Learning Journal: 06
+- Learning Journal: 07
+- Learning Journal: 08
+- Learning Journal: 09
+- Learning Journal: 10
 #### Week 3
-1. Learning Journal: 11
-1. Learning Journal: 12
-1. Learning Journal: 13
-1. Learning Journal: 14
-1. Learning Journal: 15
+- Learning Journal: 11
+- Learning Journal: 12
+- Learning Journal: 13
+- Learning Journal: 14
+- Learning Journal: 15
 ---
 ### Career:
 #### Week 1
-1. Career: Career Coaching Overview *Complete*
-1. Career: Professional Competency Self-Assessment *Complete*
-1. Career: Prepare Your Resume *Complete*
-1. Career: Prepare Your LinkedIn *Complete*
-1. Career: Social Media *Complete*
-1. Career: Talk to Your Network
-1. Career: Attend A Meetup
-1. Career: Identify Your Accountability Partners
-1. Career: Behavioral Interview Questions
-1. Career: Partner Power Hour, Report #1
+- Career: Career Coaching Overview *Complete*
+- Career: Professional Competency Self-Assessment *Complete*
+- Career: Prepare Your Resume *Complete*
+- Career: Prepare Your LinkedIn *Complete*
+- Career: Social Media *Complete*
+- Career: Talk to Your Network
+- Career: Attend A Meetup
+- Career: Identify Your Accountability Partners
+- Career: Behavioral Interview Questions
+- Career: Partner Power Hour, Report #1
 #### Week 2
-1. Career: Partner Power Hour, Report #2
-1. Career: Targeted Job Search
+- Career: Partner Power Hour, Report #2
+- Career: Targeted Job Search
 #### Week 3
-1. Career: Give Your 60 Second Professional Pitch
-1. Career: Partner Power Hour, Report #3
-1. Career: Resume Review By Your Accountability Partners
-1. Career: Attend A Meetup
-1. Career: Talk to Your Network
+- Career: Give Your 60 Second Professional Pitch
+- Career: Partner Power Hour, Report #3
+- Career: Resume Review By Your Accountability Partners
+- Career: Attend A Meetup
+- Career: Talk to Your Network
 ---
 ### Notes:
 #### Week 1
-1. Day 1
-1. Day 2
-1. Day 3
-1. Day 4
-1. Day 5
+- Day 1
+- Day 2
+- Day 3
+- Day 4
+- Day 5
 #### Week 2
-1. Day 6
-1. Day 7
-1. Day 8
-1. Day 9
-1. Day 10
+- Day 6
+- Day 7
+- Day 8
+- Day 9
+- Day 10
 #### Week 3
-1. Day 11
-1. Day 12
-1. Day 13
-1. Day 14
-1. Day 15
+- Day 11
+- Day 12
+- Day 13
+- Day 14
+- Day 15
 ---
 [Return to Main](https://trevorstubbs.github.io/learning-journal/)
