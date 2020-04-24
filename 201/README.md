@@ -21,10 +21,12 @@
 - Read: 13 -
 - Read: 14a - CSS Transforms, Transitions, and Animations
 - Read: 14b - What Google Learned About Teams
+
 ---
+
 ### Labs:
 #### Week 1
-- Lab: 01a - Creating a Reading Notes Repo
+- [Lab: 01a - Creating a Reading Notes Repo]() *Complete*
 - Lab: 01b - Getting Up and Running!
 - Lab: 02 - About Me, with a guessing game
 - Lab: 03 - Extend your 'About Me' and guessing game
@@ -48,7 +50,9 @@
 - Lab: 14 - Create an Order Form and a Shopping Cart
 - Lab: 15a - Merge conflicts with Bob, Carol, Ted, and Alice
 - Lab: 15b - Finish with the BusMall app
+
 ---
+
 ### Learning Journal:
 #### Week 1
 - Learning Journal: 02
@@ -67,7 +71,9 @@
 - Learning Journal: 13
 - Learning Journal: 14
 - Learning Journal: 15
+
 ---
+
 ### Career:
 #### Week 1
 - Career: Career Coaching Overview *Complete*
@@ -89,7 +95,9 @@
 - Career: Resume Review By Your Accountability Partners
 - Career: Attend A Meetup
 - Career: Talk to Your Network
+
 ---
+
 ### Notes:
 #### Week 1
 - Day 1
@@ -109,5 +117,7 @@
 - Day 13
 - Day 14
 - Day 15
+
 ---
+
 [Return to Main](https://trevorstubbs.github.io/learning-journal/)
