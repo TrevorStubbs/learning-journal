@@ -59,7 +59,7 @@
 - It's HTML4 reformulated to follow XML rules. Those rules include:
     - Every element needed a closing tag
     - Attribute names had to be lowercase
-    - All attributes required a vlaue, and al values wer to be in double quotes `""`.
+    - All attributes required a value, and all values are to be in double quotes `""`.
     - Deprecated elements should no longer be used.
     - Every element that was opened inside another element should be closed inside that same element.
 
@@ -203,11 +203,6 @@ header, section, footer, aside, nav, article, figure
 ```
 
 ## Process & Design
-
-### Requirements
-- Read 18
-- Skim 1
-- Read Ch 17
 
 ## Who is this site for?
 ### Are your readers Individuals?
