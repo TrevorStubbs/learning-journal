@@ -32,8 +32,8 @@
 ### Labs:
 
 #### Week 1
-- [Lab: 01a - Creating a Reading Notes Repo]() *Complete*
-- [Lab: 01b - Getting Up and Running!]
+- [Lab: 01a - Creating a Reading Notes Repo](https://trevorstubbs.github.io/learning-journal/) *Complete*
+- [Lab: 01b - Getting Up and Running!](Labs/Lab01/index.html) *Complete*
 - Lab: 02 - About Me, with a guessing game
 - Lab: 03 - Extend your 'About Me' and guessing game
 - Lab: 04 - Pair Programming: More extensions to About Me
