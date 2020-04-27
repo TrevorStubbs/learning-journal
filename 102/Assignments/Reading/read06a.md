@@ -43,7 +43,7 @@ quality = 14;
 total = price * quantity;
 ```
 
-### Rules for nameing variables
+### Rules for naming variables
 - cannot start with a number (1)
 - after the first digit it can contain any symbol
 - cannot use keywords/reserved words

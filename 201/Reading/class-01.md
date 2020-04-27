@@ -294,11 +294,6 @@ header, section, footer, aside, nav, article, figure
 
 
 ## The ABC of Programming
-#### Access
-#### Modify
-#### Program
-#### React
-
 - JS can be used to select any element inside a webpage.
 - It can select all elements of the same class
 - find out whats inside the tag of select elements
@@ -312,18 +307,13 @@ header, section, footer, aside, nav, article, figure
 1. Design the script
 1. Code each step
 
-### From Steps to Code
-1. Vocabulary
-    - Words the comp understands
-1. Syntax
-    - How you put word together
-
-- Computers are the dumbest
-    - they have to be told exactly what to do
-    - they can to infer anything
-    - you have to 'think' like a comp
-
-- Sketch out the tasks in a flowchart
+### How to use Objects & Methods
+- Typical javascript method call
+- `[object].[methodname]([parameters])`
+- Javascript runs where its found in HTML
+    - it can be run inline `<script>[javascriptCode]</script>`
+    - or it can be run from an external file
+        - `<script src="[[directory/]script.js]"></script>`
 
 ### Summary
 - A script is a series of instructions that the computer can follow in order to achieve a goal.
