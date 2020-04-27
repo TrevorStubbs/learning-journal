@@ -351,7 +351,7 @@ else {
 ```
 ---
 
-## How to write a git commit message
+## [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
 - Preferred: Concise and consistent 
 - A well crafted Git commit message is the mest way to communicate context about a change.
 - Lack of use leads to unstructured and inconsistent messages.
@@ -361,9 +361,75 @@ else {
 
 ### 7 rule of a great Git Commit message
 1. Separate subject from body with a blank line
+    - It's a good idea to begin the commit message witha a single short line summarizing the change, followed by a blank line and then a more thorough description.
+    - If you need more than a single line its best to use a text editor.
+    - `-m` is great for single line messages
 1. Limit the subject line to 50 characters
+    - Strive for [atomic commits](https://www.freshconsulting.com/atomic-commits/)
 1. Capitalize the subject line
+    - Capitalization is easier to read.
 1. Do not end the subject line with a period
 1. Use the imperative mood in the subject line
+    - aka Spoken or written as if giving a command or instruction
+        - Clean your room
+        - Closes the door
+        - Take out the trash
+    - This: 
+    > - Refactor subsystem X for readability
+    > - Update getting started documentation
+    > - Remove deprecated methods
+    > - Release version 1.0.0
+    - Not: <s>
+    > - Refactor subsystem X for readability
+    > - Update getting started documentation
+    > - Remove deprecated methods
+    > - Release version 1.0.0</s>
+    - Git commit subject line should be able to complete this sentence
+        - "If applied, this commit will <ins>your subject line here</ins>"
+    - This:
+    > - If applied, this commit will *refactor subsystem X for readability*
+    > - If applied, this commit will *update getting started documentation*
+    > - If applied, this commit will *remove deprecated methods*
+    > - If applied, this commit will *release version 1.0.0*
+    > - If applied, this commit will *merge pull request #123 from user/branch*
+    - Not: <s>
+    > - If applied, this commit will *fixed bug with Y*
+    > - If applied, this commit will *changing behavior of X*
+    > - If applied, this commit will *more fixes for broken stuff*
+    > - If applied, this commit will *sweet new API methods*</s>
+    
 1. Wrap the body at 72 characters
+    - aka line break at 72 characters to the right
+    - Git allows for 80 but it looks cleaner to have a margin
 1. Use the body to explain what and why vs. how
+    - You can leave out the details on the how. Your code should be able to show that.
+
+```Git
+Summarize changes in around 50 characters or less
+
+More detailed explanatory text, if necessary. Wrap it to about 72
+characters or so. In some contexts, the first line is treated as the
+subject of the commit and the rest of the text as the body. The
+blank line separating the summary from the body is critical (unless
+you omit the body entirely); various tools like `log`, `shortlog`
+and `rebase` can get confused if you run the two together.
+
+Explain the problem that this commit is solving. Focus on why you
+are making this change as opposed to how (the code explains that).
+Are there side effects or other unintuitive consequences of this
+change? Here's the place to explain them.
+
+Further paragraphs come after blank lines.
+
+ - Bullet points are okay, too
+
+ - Typically a hyphen or asterisk is used for the bullet, preceded
+   by a single space, with blank lines in between, but conventions
+   vary here
+
+If you use an issue tracker, put references to them at the bottom,
+like this:
+
+Resolves: #123
+See also: #456, #789
+```
