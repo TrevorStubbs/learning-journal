@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>
+      Lab01a: Getting Up and Running
+    </title>
+    <style>
+      h1 {
+        background-color: orangered;
+        color: blue;
+        text-align: center;
+      }
+      p {
+        padding: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>      
+    </header>
+    <main>
+      <h1>Class 1 Lab</h1>
+      <p style="background-color: #1000ff; color: rgb(243, 251, 255);">What is your name?</p>
+      <p style="background-color: rgb(204, 51, 0); color: rgb(102, 255, 255);">What is the closest ocean to you?</p>
+      <p style="background-color: rgb(255, 0, 102); color: rgb(0, 51, 102);">What fish would you like to catch?</p>
+      <p style="background-color: rgb(255, 0, 0); color: rgb(0, 51, 0);">Would to catch it with a rod or with a net?</p>
+    </main>
+    <footer>
+    </footer>
+    <script>
+      alert("Hello there, welcome to the Fishing Adventure Company. We have some very important questions to ask you so we can set you up on the best fishing adventure you'll ever have.")
+      var name = prompt("What is your name?");
+      console.log(name);
+      alert("Welcome " + name + "!");
+
+      var ocean = prompt(name + ", what is the closest ocean to you?");
+      console.log(ocean);
+      alert("Well, " + name + " the " + ocean + " is one of my favorite oceans!");
+
+      var fish = prompt("If you were to cross the " + ocean + " what kind of fish would you like to catch?");
+      console.log(fish);
+      alert("Yum, " + fish + " are some good eating.");
+
+      var tool = prompt("Would you use a rod or a net to catch a " + fish + " ?");
+      console.log(tool);
+      alert(tool + " is very useful to catch those " + fish + ".");
+      alert("Well, " + name + " let us book you for a sailing trip across the " + ocean + " and we will set you up with a " + tool + " so that you can catch " + fish + ". I promise you will have an excellent time.");
+    </script>
+  </body>
+</html>
+<!-- 
+- 4 javascript prompts 4 questions
+- Each response stored in it's own var
+- Use each respons to retrun an alert that concatonates the responses.
+- Have each alert utilize the responses to all of the prior questions.
+- Create a console.log
+- <h1> Class 1 lab. </h1>
+- <p> list the questions</p>
+- Each <p> tag us inline style to have a different text and backgroudn color.
+-->

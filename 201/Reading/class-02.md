@@ -41,7 +41,7 @@
 
 ### Quotations
 - `<blockquote>` used for longer quotes that take up an entire paragraph.
-    - browseres tend to indent the contents of a `<blockquote>`.
+    - browsers tend to indent the contents of a `<blockquote>`.
 - `<q>` used for shorter quotes that sit within a paragraph.
 
 ### Abbreviations & Acronyms
@@ -128,13 +128,13 @@ p {
 ```CSS
 h1, h2, h3{
     font-family: Arial;
-    color: yello;}
+    color: yellow;}
 ```
 ---
 ### Getting CSS into your site
 You have to tell your HTML document that you are using CSS. There are 2 ways of doing that: Internally or Externally.
 - External CSS file: use the `<link href="[CssFileLocation]" type="text/css" rel="stylesheet">` tag in the head tag of your html docutment.
-- Internal (inline) CSS formating: use the `<style type="text/css">` tag followed by your css coding (don't forget to close the tag (`</style>`)).
+- Internal (inline) CSS formatting: use the `<style type="text/css">` tag followed by your css coding (don't forget to close the tag (`</style>`)).
         - Only do this if you have only 1 page to your site or that you need a special rule that only applies to this page.
 
 ### CSS Selectors
@@ -238,7 +238,7 @@ z = x + y; // z is now helloWorld
 - Or you can use the escape character (`\`)
     - This tells the compiler/browser to ignore the next symbol
 ```JavaScript
-'My Mom\'s"
+'My Mom\'s'
 ```
 
 ### Var - Boolean
@@ -353,7 +353,7 @@ else {
 
 ## [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
 - Preferred: Concise and consistent 
-- A well crafted Git commit message is the mest way to communicate context about a change.
+- A well crafted Git commit message is the best way to communicate context about a change.
 - Lack of use leads to unstructured and inconsistent messages.
 - **Style**: Markup syntax, wrap margins, grammar, capitalization, punctuation.
 - **Content**: What kind of info should the body of the commit message contain?
@@ -361,7 +361,7 @@ else {
 
 ### 7 rule of a great Git Commit message
 1. Separate subject from body with a blank line
-    - It's a good idea to begin the commit message witha a single short line summarizing the change, followed by a blank line and then a more thorough description.
+    - It's a good idea to begin the commit message with a a single short line summarizing the change, followed by a blank line and then a more thorough description.
     - If you need more than a single line its best to use a text editor.
     - `-m` is great for single line messages
 1. Limit the subject line to 50 characters
