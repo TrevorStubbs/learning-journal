@@ -8,7 +8,7 @@
 - [Read: 01 - Introductory HTML and JavaScript](Reading/class-01.md) *Complete*
 - [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](Reading/class-02.md) *Complete*
 - [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](Reading/class-03.md) *Complete*
-- Read: 04 - HTML Links, CSS Layout, JS Functions
+- [Read: 04 - HTML Links, CSS Layout, JS Functions](Reading/class-04.md) *Complete*
 - Read: 05 - HTML Images; CSS Color & Text
 
 #### Week 2 
