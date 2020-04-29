@@ -34,7 +34,7 @@
 #### Week 1
 - [Lab: 01a - Creating a Reading Notes Repo](https://trevorstubbs.github.io/learning-journal/) *Complete*
 - [Lab: 01b - Getting Up and Running!](Labs/Lab01/index.html) *Complete*
-- Lab: 02 - About Me, with a guessing game
+- [Lab: 02 - About Me, with a guessing game](Labs/Lab02/README.md) *Complete*
 - Lab: 03 - Extend your 'About Me' and guessing game
 - Lab: 04 - Pair Programming: More extensions to About Me
 - Lab: 05a - Write some functions on Git branches!
@@ -66,7 +66,7 @@
 ### Learning Journal:
 #### Week 1
 
-- Learning Journal: 02
+- [Learning Journal: 02](LearningJounral/Journal2.md) *Complete*
 - Learning Journal: 03
 - Learning Journal: 04
 - Learning Journal: 05
@@ -120,7 +120,7 @@
 #### Week 1
 
 - [Day 1](Notes/day1.md) *Complete*
-- Day 2
+- [Day 2](Notes/day2.md)
 - Day 3
 - Day 4
 - Day 5
