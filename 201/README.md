@@ -9,7 +9,7 @@
 - [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](Reading/class-02.md) *Complete*
 - [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](Reading/class-03.md) *Complete*
 - [Read: 04 - HTML Links, CSS Layout, JS Functions](Reading/class-04.md) *Complete*
-- Read: 05 - HTML Images; CSS Color & Text
+- [Read: 05 - HTML Images; CSS Color & Text](Reading/class-05.md) *Complete*
 
 #### Week 2 
 
@@ -35,7 +35,7 @@
 - [Lab: 01a - Creating a Reading Notes Repo](https://trevorstubbs.github.io/learning-journal/) *Complete*
 - [Lab: 01b - Getting Up and Running!](Labs/Lab01/index.html) *Complete*
 - [Lab: 02 - About Me, with a guessing game](Labs/Lab02/README.md) *Complete*
-- Lab: 03 - Extend your 'About Me' and guessing game
+- [Lab: 03 - Extend your 'About Me' and guessing game](Labs/Lab03/README.md) *Complete*
 - Lab: 04 - Pair Programming: More extensions to About Me
 - Lab: 05a - Write some functions on Git branches!
 - Lab: 05b - Finish and deploy your About Me
@@ -120,8 +120,8 @@
 #### Week 1
 
 - [Day 1](Notes/day1.md) *Complete*
-- [Day 2](Notes/day2.md)
-- Day 3
+- [Day 2](Notes/day2.md) *Complete*
+- [Day 3](Notes/day3.md) *Complete*
 - Day 4
 - Day 5
 
