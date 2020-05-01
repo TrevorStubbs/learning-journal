@@ -22,9 +22,73 @@
 - Get better at understanding the PD.
 - If it's to difficult to understand break it apart
 
-## JS Object Literals 100-105
+## JS Object Literals
 ### What is an Object
 - Objects group variable and functions to create a model of something.
     - Variables are called properties
     - Functions are called methods
 - Object names are called **keys**
+
+### Literal Notation for Object creation Example
+
+```JavaScript
+var hotel = {
+    name: 'Airbnb',
+    rooms: 4,
+    booked: 2,
+    gym: true,
+    roomTypes: ['twin', 'double', 'master'],
+    checkAvailability: function(){
+        return this.room - this.booked;
+    }
+}
+```
+
+### Accessing an object and using Dot Notation
+- `[objectName].[propertyName];`
+- `[objectName].[methodName()];`
+
+```JavaScript
+var hotelName = hotel.name;
+var roomsFree = hotel.checkAvailability();
+```
+
+- you can access properties (not methods) using brackets
+    - `var hotelName = hotel['name'];`
+
+### Creating an Object: Constructor Notation
+```JavaScript
+var hotel = new Object();
+hotel.name = 'Quay';
+hotel.rooms = 40;
+hotel.booked = 25;
+hotel.checkAvailability = function(){
+    return this.room - this.booked;
+}
+```
+
+### Updating an Object
+- `hotel.name = 'Park';`
+- `hotel['name'] = 'Park';`
+
+---
+
+## The DOM 183-242
+- The Document Object Model specifies how browsers should create a model of an HTML page and how JS can access and update the contents of a page.
+- Each object represents a different part of a page.
+- DOM is an API (application programming interface.)
+
+### The DOM Tree
+- a model of a web page.
+- Document Node: Represents the entire page.
+- Element Node: Describe the structure of and HTML page
+    - Once you find the element you want then you can access its text and/or attribute nodes.
+- Attribute Node: Gives access to the attribute of an element
+- Text Node: Give access to the text of an element
+
+![The DOM](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1280px-DOM-model.svg.png)<sub>[wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model)</sub>
+
+### Working with the DOM Tree
+1. Locate the node that represents the element
+1. use its text content, child elements, and attributes.
+
