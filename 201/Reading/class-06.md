@@ -92,3 +92,49 @@ hotel.checkAvailability = function(){
 1. Locate the node that represents the element
 1. use its text content, child elements, and attributes.
 
+- Access the Elements
+    - Select an individual node
+        - `getElementById()` HTML
+        - `querySelector()` CSS
+    - Select multiple nodes
+        - `getElementByClassName()`
+        - `getElementByTagName()`
+        - `querySelectorAll()`
+    - Traversing between Element nodes
+        - `parentNode`
+        - `previousSibling/nextSibling`
+        - `firstChild/lastChild`
+
+- Work with those Elements
+    - Access/Update Text
+        - `nodeValue`
+    - Work with HTML content
+        - `innerHTML`
+        - `textContent`
+        - Can create new nodes, add nodes to a tree and remove nodes from a tree
+            - `createElement()`
+            - `createTextNode()`
+            - `appendChild()/removeChild()`
+    - Access or update attribute values
+        - `hasAttribute()`
+        - `getAttribute()`
+        - `setAttribute()`
+        - `removeAttribute()`
+
+### Caching DOM Queries
+- Methods that find DOM elements are called queries.
+- Sometimes you need to query the same element multiple times.
+    - use a var to store the result of the query.
+    - Some people will call this 'storing an element in a variable'
+
+### Accessing Elements
+- DOM queries may return only 1 element or they may return a NodeList (collection of nodes).
+    - If a method can return more than one node it will return a NodeList (in the form of an array). You will then need to select the node you are looking for using an index.
+    - Finding the quickest way to access an element in your page will make the page seem faster/responsive.
+
+### Element Selecting Methods:
+- Single Node Returns
+    - `getElementById('[id]')` - Selects the element that has specified [id]
+    - `querySelector('[css selector]')` - Uses CSS selector syntax that would select 1 or more elements. This method returns only the 1st of the matching elements.
+- 1 or more element returns
+    - `getElementByClass('[class]')` - 
