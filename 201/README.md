@@ -37,7 +37,7 @@
 - [Lab: 02 - About Me, with a guessing game](Labs/Lab02/README.md) *Complete*
 - [Lab: 03 - Extend your 'About Me' and guessing game](Labs/Lab03/README.md) *Complete*
 - [Lab: 04 - Pair Programming: More extensions to About Me](Labs/Lab04/README.md) *Compete
-- Lab: 05a - Write some functions on Git branches!
+- [Lab: 05a - Write some functions on Git branches!](https://github.com/applena/201lab5a/pull/12) *Completer*
 - Lab: 05b - Finish and deploy your About Me
 - [Lab: 05c - CSS Selector Practice](https://flukeout.github.io/) *Complete*
 
@@ -69,7 +69,7 @@
 - [Learning Journal: 02](LearningJounral/Journal2.md) *Complete*
 - [Learning Journal: 03](LearningJournal/Journal3.md) *Complete*
 - [Learning Journal: 04](LearningJournal/Journal4.md) *Complete*
-- Learning Journal: 05
+- [Learning Journal: 05]() *Complete*
 
 #### Week 2
 
@@ -99,7 +99,7 @@
 - [Career: Social Media](https://www.linkedin.com/in/trevorstubbssea/) *Complete*
 - [Career: Identify Your Accountability Partners] *Complete*
 - Career: Behavioral Interview Questions
-- Career: Partner Power Hour, Report #1
+- [Career: Partner Power Hour, Report #1] *Complete*
 
 #### Week 2
 
@@ -123,7 +123,7 @@
 - [Day 2](Notes/day2.md) *Complete*
 - [Day 3](Notes/day3.md) *Complete*
 - [Day 4](Notes/day4.md) *Complete*
-- Day 5
+- [Day 5](Notes/day5.md) *Complete*
 
 #### Week 2
 

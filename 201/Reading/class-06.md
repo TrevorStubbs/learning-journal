@@ -136,5 +136,33 @@ hotel.checkAvailability = function(){
 - Single Node Returns
     - `getElementById('[id]')` - Selects the element that has specified [id]
     - `querySelector('[css selector]')` - Uses CSS selector syntax that would select 1 or more elements. This method returns only the 1st of the matching elements.
-- 1 or more element returns
-    - `getElementByClass('[class]')` - 
+- 1 or more element returns - produces a collection
+    - `getElementByClass('[class]')` - Select the elements of that class - produces a collection
+    - `getElementsByTagName('[tagName]')` - Selects all the elements of the page with that tag - produces a collection
+    - `querySelectorAll('[css selector]')` - Uses CSS selector syntax to select one or more elements and returns all of those that match. - produces a collection
+- NodeList is a collection of element nodes. THey look like arrays but they are collections. 
+- Live NodeList- when your script updates the page. Typically faster to generate than static NodeLists.
+- Static NodeList- when you script updates the page, the NL is not updated to reflect the changes made by the script.
+
+### Selecting an item from a NodeList
+- `item()` method - 
+- `array[0]` syntax - faster
+
+### Selecting Elements using CSS Selectors
+
+
+### Can use a loop to repeat actions for the entire NodeList
+
+### Looping Through the DOM
+### Traversing the DOM
+- WHen you a have an element node, you can select another element in relation to it:
+    - `parentNode`
+    - `previousSibling`
+    - `nextSibling`
+    - `firstChild`
+    - `lastChild`
+- Whitespace Nodes 
+    - Most browsers treat WS between elements as a text node.
+    - can make using theses transversal properties not work. 
+    - you can strip all the whitespaces out but that would make your code harder to read.
+    - jQuery has ways of dealing with this
