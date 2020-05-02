@@ -56,21 +56,6 @@ var roomsFree = hotel.checkAvailability();
 - you can access properties (not methods) using brackets
     - `var hotelName = hotel['name'];`
 
-### Creating an Object: Constructor Notation
-```JavaScript
-var hotel = new Object();
-hotel.name = 'Quay';
-hotel.rooms = 40;
-hotel.booked = 25;
-hotel.checkAvailability = function(){
-    return this.room - this.booked;
-}
-```
-
-### Updating an Object
-- `hotel.name = 'Park';`
-- `hotel['name'] = 'Park';`
-
 ---
 
 ## The DOM 183-242

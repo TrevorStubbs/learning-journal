@@ -38,7 +38,7 @@
 - [Lab: 03 - Extend your 'About Me' and guessing game](Labs/Lab03/README.md) *Complete*
 - [Lab: 04 - Pair Programming: More extensions to About Me](Labs/Lab04/README.md) *Compete
 - [Lab: 05a - Write some functions on Git branches!](https://github.com/applena/201lab5a/pull/12) *Completer*
-- Lab: 05b - Finish and deploy your About Me
+- [Lab: 05b - Finish and deploy your About Me](https://trevorstubbs.github.io/201-lab2/) *Complete*
 - [Lab: 05c - CSS Selector Practice](https://flukeout.github.io/) *Complete*
 
 #### Week 2
@@ -98,7 +98,7 @@
 - [Career: Prepare Your LinkedIn](https://www.linkedin.com/in/trevorstubbssea/) *Complete*
 - [Career: Social Media](https://www.linkedin.com/in/trevorstubbssea/) *Complete*
 - [Career: Identify Your Accountability Partners] *Complete*
-- Career: Behavioral Interview Questions
+- [Career: Behavioral Interview Questions](Career/BehavioralInterviewQuestions.md)
 - [Career: Partner Power Hour, Report #1] *Complete*
 
 #### Week 2
