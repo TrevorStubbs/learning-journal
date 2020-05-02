@@ -13,7 +13,7 @@
 
 #### Week 2 
 
-- [Read: 06 - JS Object Literals; The DOM](Reading/class-6.md) *Complete*
+- [Read: 06 - JS Object Literals; The DOM](Reading/class-06.md) *Complete*
 - Read: 07 - HTML Tables; JS Constructor Functions
 - Read: 08 - More CSS Layout
 - Read: 09 - Forms and Events
