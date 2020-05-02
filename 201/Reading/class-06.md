@@ -149,9 +149,15 @@ hotel.checkAvailability = function(){
 - `array[0]` syntax - faster
 
 ### Selecting Elements using CSS Selectors
-
+- not as fast as the others
 
 ### Can use a loop to repeat actions for the entire NodeList
+```JavaScript
+var hotItems = document.querySelectorAll('li.hot');
+for(var i = 0; i<hotItems.length; i++){
+    hotItems[i].className = 'cool';
+}
+```
 
 ### Looping Through the DOM
 ### Traversing the DOM
@@ -166,3 +172,141 @@ hotel.checkAvailability = function(){
     - can make using theses transversal properties not work. 
     - you can strip all the whitespaces out but that would make your code harder to read.
     - jQuery has ways of dealing with this
+
+### Get/Update Element Content
+![DOM Tree Example](ReadingImages/DOMexample1.png)<sub>Duckett pg. 212</sub>
+![DOM Tree with `<em>`](ReadingImages/DOMexample2.png)<sub>Duckett pg. 213</sub>
+- If there is text in an element then a new 'text' node is created.
+    - `nodeValue` - Accesses text fom the node
+- When you're in the containing element use:
+    - `innerHTML` - gets/sets text & markup
+    - `textContent` - gets/sets text only
+    - `innerText` - gets/sets text only (*should be avoided*)
+
+> ![Access & Update a Text Node with NodeValue](ReadingImages/DOMNodeValue1.png)<sub>Duckett pg 214</sub>
+> `document.getElementById('one').firstChild.nextSibling.nodeValue;` <br/>
+
+### Accessing & Changing  a text node
+```JavaScript
+var itemTwo = document.getElementById('two'); // Get second list item
+var elementText = itemTwo.firstChild.nodeValue; //Get its text content
+elementText = elementText.replace('thingToBeReplaced', 'thingThatWillReplace'); // change defined thing to the other.
+itemTwo.firstChild.nodeValue = elText; //Update the list item
+```
+
+- <s>`innerText`</s> Should be avoided
+    - Some browsers don't support it since it's not part of any standard
+    - It will not show content hidden by CSS
+    - it is slower
+
+### Adding or Removing HTML Content
+- `innerHTML` - Note: There are security risks associated with using innerHTML.
+- Adding Content
+    - Store new content in a string variable
+    - Select the element whose content you want to replace
+    - Set the element's innerHTML to the new String.
+- Removing Content
+    - To remove all content from an element you set `innerHTML` to an emptry string.
+    - To remove 1 element from a DOM fragment you need to provide the entire fragment minus that element
+- Adding with 'DOM manipulation' - easily targets individual node in the DOM tree
+    - Need to create all the element and then attach them to the tree.
+    - `createElement()` - creates and element that can be added to the tree
+    - `createTextNode()`- creates a new text node to attach to an element
+    - `appendChild()` - attaches a  node to an element 
+
+```JavaScript
+var newElement = document.createElement('li');
+var newText = document.createTextNode('quinoa');
+newElement.appendChild(newText);
+var position = document.getElementByTagName('ul')[0];
+position.appendChild(newElement);
+```
+
+- Removing with 'DOM manipulation'
+    - Store the element to be removed in a var
+    - Store the parent of that element in a var
+    - remove the element from its containing element
+```JavaScript
+var removeElement = document.getElementByTagName('li')[3];
+var containerElement = removeElement.parentNode;
+containerElement.removeChild(removeElement);
+```
+![Item to be removed](ReadingImages/DOMRemove.png)<sub>Duckett pg225</sub>
+
+### `innerHTML` vs DOM Manipulation
+- `innerHTML`
+    - Advantages:
+        - Can add a large amount of markup using less code
+        - It's faster than DOM manipulation
+        - It's a simple way of removing all content
+    - Disadvantages:
+        - It should not be used to add content from the user. 
+        - Can be difficult to isolate single elements
+        - Event handlers may no longer work as intended
+- 'DOM Manipulation`
+    - Advantages: 
+        - It is suited to change 1 element from a DOM fragment where there are many siblings.
+        - It doesn't affect event handlers
+        - It easily allows a script to add element incrementally.
+    - Disadvantages:
+        - It's slower than `innerHTML` for large jobs
+        - You need to write more code to achieve the same result.
+
+### Cross-site Scripting (XSS) attacks
+- using `innerHTML` opens up site to XSS.
+- data that you don't have complete control over is called **untrusted data**
+- XSS can give attackers access to:
+    - The DOM
+    - the sites cookies
+    - session tokens
+- The attacker might even get access to your users accounts
+
+### Defending against XSS
+- Validate input going to the server
+    - Only let visitors input the kind of characters they need to when supplying info.
+    - Double-check validation on the server before displaying user content/storing it in a db. 
+- Do not place user's content in
+    - script tags
+    - HTML comments
+    - Tag Names
+    - Attributes
+    - CSS values
+- All untrusted data needs to be escaped
+    - make sure any of these char are escaped
+        - `&` - `&amp;`
+        - `<` - `&lt;`
+        - `>` - `&gt;`
+        - ` - [&#x60];
+        - `'` - `&#x27;` (not `&apos;`)
+        - `"` - `&auot;`
+        - `/` - `&#x2f;`
+    - JavaScript
+        - never include data from untrusted sources in JS. Escape all ASCII characters with a value less than 256 that are not alphanumeric. 
+    - ULS
+        - use `encodeURComponent()`
+    - Adding User Content
+        - JavaScript
+            - Use: `textContent` or `innerText`
+            - Don't Use: `innerHTML`
+        - JQuery
+            - Use: `.text()`
+            - Don't Use: `.html()`
+- you can still used `innerHTML` and `.html()` you just have to ensure you control all the markup being generated.
+
+### Attribute Nodes
+- Once you have access to a node you can access and change its attributes.
+    - `getAttribute()` - gets the value of an attribute
+    - `hasAttribute()` - checks if element node has a specified attribute
+    - `setAttribute()` - sets the value of an attribute
+    - `removeAttribute()` - removes an attribute from an element node
+    - `className` - gets/sets the value of the class attribute
+    - `id` - gets/sets the value of the **id** attribute
+
+### Check for an attribute and get its value
+- before trying to set an attribute you need to make sure if the node has that attribute.
+    - check to see if the attribute is there
+        - if there change its value
+        - if not assign the property and then assign the new attribute
+
+### Examining the DOM in Chrome
+- `f12` on PC
