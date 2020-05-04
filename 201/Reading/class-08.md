@@ -190,3 +190,123 @@ a{
 - `url("[gifURL]")`
 
 ## Events pg 243-292
+- Terminology:
+    - Fired or Raised - when an event has occurred
+    - Events are said to trigger a function or a script
+        
+Typical Even Listeners:
+- UI Events
+    - `load` - Web page has finished loading
+    - `unload` - web page is unloading (usually because a new page was requested)
+    - `error` - Browser encounters a JS error or an asset doesn't exist
+    - `resize` - browser window has been resized
+    - `scroll` - User has scrolled up or down
+- Keyboard Events
+    - `keydown` - Key has been pressed
+    - `keyup` - key has been released
+    - `keypress` - char is being inserted
+- Mouse Events
+    - `click` - User presses and releases a button over the same element
+    - `dblclick` - User double clicks and element
+    - `mousedown` - User presses a mouse button over an element
+    - `mouseup` - user released mouse button over element
+    - `mousemove` - User moves the mouse (not touch screen)
+    - `mouseover` - user moves the mouse over an element (not touch screen)
+    - `mouseout` - User moves the mouse off an element (not touch screen)
+- Focus Events
+    - `focus`/`focusin` - - Element gains focus
+    - `blur`/`focusout` - Element looses focus
+- Form Events
+    - `inputs` - value in any `<input>` or `<textarea>` element has changed or any element with the content editable attribute.
+    - `change` - value in a select box, checkbox, or radio button changes
+    - `submit` - user submits a form (using a button or key)
+    - `reset` - user clicks on a form's reset button (rarely used)
+    - `cut` - user cuts content from a form field
+    - `copy` - user copies content from a form field
+    - `paste` - user pastes content into a form field
+    - `select` - user selects some text in a form field
+- Mutation Events - Occur when the DOM structure has been changed 
+    - `DOMSubtreeModified` - Change has been made to the document
+    - `DOMNodeInserted` - Node has been inserted as a direct child of another node
+    - `DOMNodeRemoved` - Node has been removed from another node
+    - `DOMNodeInsertedIntoDocument` - Node has been inserted as a descendant of another node
+    - `DOMNodeRemovedFromDocument` - Node has been removed as a descendant of another node
+
+### How to Use an even
+1. Select the element node
+1. Indicate which event will trigger the response
+1. State what you want to have happen during the event
+
+### Ways to bind and event to an element
+1. HTML Event Handlers (Do No Use)
+1. Traditional DOM even handlers
+1. DOM level 2 event listeners
+
+### HTML Event Handlers
+- Calling the even within the HTML
+
+### Traditional DOM Event Handlers
+> `element.onevent = functionName;` (no `()`)
+- You can only attach one function to each event handler.
+
+### Using DOM Event Handlers
+### Event Listeners
+- Can Deal with more than 1 function at a time.
+> ` element.addEventListener('event', functionName, [,Boolean]);` (boolean is usually set to false) (no `()`)
+
+### Using Parameters with Event Handlers & Listeners
+- You can't use `()` in event handlers or listeners.
+- To use parameters you need to use an anonymous function.
+```JavaScript
+element.addEventListener('blur', function(){
+    checkUserName(5);
+}, false);
+```
+### Event Flow
+- HTML elements nest inside other elements.
+    - If you hover or click on a element you will also be hovering/clicking on its parents.
+
+- Event bubbling: The even starts at the most specific node and flows outward. (default)
+- Event Capturing: THe event starts at the least specific node and flows inward (not supported by IE8)
+
+### Event Object
+- When an event occurs, the event object tells you info about the event and the element that its happening on. 
+- Event Object properties
+    - `target` the target of the event
+    - `type` type of event that was fired
+    - `cancelable` weather you can cancel the default behavior of and element
+
+- EO Methods
+    - `preventDefault()` Cancel default behavior of the event (if it can be cancelled)
+    - `stopPropagation()` Stops the event from bubbling or capturing any further
+
+    ![Event Listener Flow](ReadingImages/EventListener.png)<sub>Duckett pg. 263</sub>
+
+    ![Event Listener With Parameters](ReadingImages/EventListenerWithParams.png)<sub>Duckett pg. 263</sub>
+
+### Event Delegation
+- Creating event listeners for a lot of elements can slow down a page, but event flow allows you to listen for an event on a present element.
+    - by attaching an event listener to a containing element, you are only responding to one element(rather than having an event handler for each child element).
+
+### Changing Default Behavior
+### Different Types of Events
+- W3C DOM Events
+- HTML5 Events
+    - `submit`
+    - `input`
+    - `change`
+    - `readystatechange`
+    - `DOMContentLoaded`
+    - `hashchange`
+- BOM Events
+    - `touchstart`
+    - `touchend`
+    - `touchmove`
+    - `orientationchange`
+
+### User Interface Events
+### Where Events Occur
+- screenX and screenY indicate the position of the cursor within the entire monitor
+- pageX and pageY where the cursor is in the page. (it's beyond the view port).
+- clientX and clientY where inside the viewport is the cursor.
+    
