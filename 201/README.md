@@ -127,7 +127,7 @@
 
 #### Week 2
 
-- Day 6
+- [Day 6](Notes/day6.md) *Complete*
 - Day 7
 - Day 8
 - Day 9
