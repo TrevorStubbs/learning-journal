@@ -1,7 +1,7 @@
 # Read: 08 - More CSS Layout
 #### 5/4/20
 
-# This is a Review of Class-04 358-404
+# This is a Review of Class-04
 - Normal Flow - Block-level elements appears on a new line
 - Relative positioning - shifting the element to the top, right, bottom , or left of where it would have been placed. 
 - Absolute Positioning - Element is taken out of the normal flow

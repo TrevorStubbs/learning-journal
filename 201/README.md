@@ -17,7 +17,7 @@
 - [Read: 07 - HTML Tables; JS Constructor Functions](Reading/class-07.md) *Complete*
 - [Read: 08 - More CSS Layout](Reading/class-08.md) *Complete*
 - [Read: 09 - Forms and Events](Reading/class-09.md) *Complete*
-- Read: 10 - JS Debugging
+- [Read: 10 - JS Debugging](Reading/class-10.md) *Complete*
 
 #### Week 3
 
@@ -43,7 +43,7 @@
 
 #### Week 2
 
-- Lab: 06 - Get started on the Salmon Cookies project
+- [Lab: 06 - Get started on the Salmon Cookies project](https://github.com/TrevorStubbs/cookie-stand) *Complete*
 - Lab: 07 - Add a constructor function to the cookie stand project
 - Lab: 08a - HTML/CSS Wireframe Exercise
 - Lab: 08b - Work on styling the cookie stand project
@@ -73,7 +73,7 @@
 
 #### Week 2
 
-- Learning Journal: 06
+- [Learning Journal: 06]() *Complete*
 - Learning Journal: 07
 - Learning Journal: 08
 - Learning Journal: 09
