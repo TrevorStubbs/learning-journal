@@ -15,7 +15,7 @@
 ### Centering Images with CSS
 - by default images are inline elements
 1. make the image a block-level element
-1. On the conatianing element you can use `text-align:center`
+1. On the containing element you can use `text-align:center`
 1. Or on the image itself, you can use the margin property and set the values of the left and right to auto.
 ```CSS
 img.align-center{

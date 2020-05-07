@@ -21,7 +21,7 @@
 
 #### Week 3
 
-- Read: 11 - Assorted Topics
+- [Read: 11 - Assorted Topics](Reading/class-11.md)
 - Read: 12 - Docs for the HTML `<canvas>` Element & Chart.js
 - Read: 13 -
 - Read: 14a - CSS Transforms, Transitions, and Animations
@@ -44,9 +44,9 @@
 #### Week 2
 
 - [Lab: 06 - Get started on the Salmon Cookies project](https://github.com/TrevorStubbs/cookie-stand) *Complete*
-- Lab: 07 - Add a constructor function to the cookie stand project
-- Lab: 08a - HTML/CSS Wireframe Exercise
-- Lab: 08b - Work on styling the cookie stand project
+- [Lab: 07 - Add a constructor function to the cookie stand project](https://github.com/TrevorStubbs/cookie-stand) *Complete*
+- [Lab: 08a - HTML/CSS Wireframe Exercise](https://github.com/TrevorStubbs/wirefame-exercise) *Complete*
+- [Lab: 08b - Work on styling the cookie stand project](https://github.com/TrevorStubbs/cookie-stand) *Complete*
 - Lab: 09 - Add a form to the cookie stand project
 - Lab: 10a - Design comp (Chocolate Pizza)
 - Lab: 10b - Finish the salmon cookie stand project
@@ -66,7 +66,7 @@
 ### Learning Journal:
 #### Week 1
 
-- [Learning Journal: 02](LearningJounral/Journal2.md) *Complete*
+- [Learning Journal: 02](LearningJournal/Journal2.md) *Complete*
 - [Learning Journal: 03](LearningJournal/Journal3.md) *Complete*
 - [Learning Journal: 04](LearningJournal/Journal4.md) *Complete*
 - [Learning Journal: 05]() *Complete*
@@ -74,8 +74,8 @@
 #### Week 2
 
 - [Learning Journal: 06]() *Complete*
-- Learning Journal: 07
-- Learning Journal: 08
+- [Learning Journal: 07]() *Complete*
+- [Learning Journal: 08]() *Complete*
 - Learning Journal: 09
 - Learning Journal: 10
 
@@ -128,10 +128,10 @@
 #### Week 2
 
 - [Day 6](Notes/day6.md) *Complete*
-- Day 7
-- Day 8
-- Day 9
-- Day 10
+- [Day 7](Notes/day7.md) *Complete
+- [Day 8](Notes/day8.md)
+- [Day 9](Notes/day9.md)
+- [Day 10](Notes/day10.md)
 
 #### Week 3
 
