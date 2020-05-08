@@ -59,3 +59,4 @@ Set up 3 settings for the same image
 1. use webkit gradient add a gradient to a background image
 ### Contrast of Background Images
 ## Practical Information pg 476-492
+### Search Engine Optimization (SEO)

@@ -47,7 +47,7 @@
 - [Lab: 07 - Add a constructor function to the cookie stand project](https://github.com/TrevorStubbs/cookie-stand) *Complete*
 - [Lab: 08a - HTML/CSS Wireframe Exercise](https://github.com/TrevorStubbs/wirefame-exercise) *Complete*
 - [Lab: 08b - Work on styling the cookie stand project](https://github.com/TrevorStubbs/cookie-stand) *Complete*
-- Lab: 09 - Add a form to the cookie stand project
+- [Lab: 09 - Add a form to the cookie stand project](https://github.com/TrevorStubbs/cookie-stand) *Complete*
 - Lab: 10a - Design comp (Chocolate Pizza)
 - Lab: 10b - Finish the salmon cookie stand project
 - Lab: 10c - Git Practice
@@ -76,7 +76,7 @@
 - [Learning Journal: 06]() *Complete*
 - [Learning Journal: 07]() *Complete*
 - [Learning Journal: 08]() *Complete*
-- Learning Journal: 09
+- [Learning Journal: 09]() *Complete*
 - Learning Journal: 10
 
 #### Week 3
@@ -129,8 +129,8 @@
 
 - [Day 6](Notes/day6.md) *Complete*
 - [Day 7](Notes/day7.md) *Complete
-- [Day 8](Notes/day8.md)
-- [Day 9](Notes/day9.md)
+- [Day 8](Notes/day8.md) *Complete*
+- [Day 9](Notes/day9.md) *Complete*
 - [Day 10](Notes/day10.md)
 
 #### Week 3
