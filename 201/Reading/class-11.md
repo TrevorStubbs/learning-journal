@@ -31,7 +31,7 @@ img.align-center{
     - `repeat-x` - repeats horizontally
     - `repeat-y` - repeats vertically
     - `no-repeat` - image is only shown once
-    - `fixed` - image stays in the same postion
+    - `fixed` - image stays in the same position
     - `scroll` - image moves up and down as the user scrolls
 ### Positioning
 - `background-position:`
@@ -60,3 +60,105 @@ Set up 3 settings for the same image
 ### Contrast of Background Images
 ## Practical Information pg 476-492
 ### Search Engine Optimization (SEO)
+- SEO is the practice of trying to help your site appear nearer the top of search engine resultes. 
+- Need to figure out what terms users are likely to search for. 
+#### On Page Techniques
+- Good Keywords.
+- Search engines rely on your text. 
+- Make use images have an `alt`
+1. Page Title
+1. URL/Web Address
+1. headings
+1. Text
+1. link text
+1. image alt text
+1. page description
+    - Live inside the `<head>` tag.
+#### Off-Page Technique
+- Getting other pages to link to yours. 
+- Search engines looks for the words between the `<a>` tags
+### Analytics: Learn about your users
+- `google.com/analytics`
+#### Visiting numbers
+- Visits
+- Unique Visits
+- Page Views
+- Pages Per Visit
+- Average Time on Site
+- Date Selector 
+- Export
+#### What are they looking at
+- Pages
+- Landing Pages
+- Top exit pages
+- Bounce Rate
+#### Where are you visitors coming from?
+- Referrers
+- Direct
+- Search Terms
+- Advanced features
+#### Where are they coming from?
+#### DNS
+### FTP & Third Party Tools
+## [Video and Audio APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
+- `<video>` and `<audio>` allows for embedding video and audio into a  page.
+- `controls` attribute - allows user to have controls show up.
+- HTMLMediaElement` api - provide features to allow you to control video and audio players programmatically
+    - `HTMLMediaElement.play()`
+    - `HTMLMediaElement.pause()`
+    
+```HTML 
+<div class="player">
+  <video controls>
+    <source src="video/sintel-short.mp4" type="video/mp4">
+    <source src="video/sintel-short.webm" type="video/webm">
+    <!-- fallback content here -->
+  </video>
+  <div class="controls">
+    <button class="play" data-icon="P" aria-label="play pause toggle"></button>
+    <button class="stop" data-icon="S" aria-label="stop"></button>
+    <div class="timer">
+      <div></div>
+      <span aria-label="timer">00:00</span>
+    </div>
+    <button class="rwd" data-icon="B" aria-label="rewind"></button>
+    <button class="fwd" data-icon="F" aria-label="fast forward"></button>
+  </div>
+</div>
+```
+- Styling
+```CSS
+.controls {
+  visibility: hidden;
+  opacity: 0.5;
+  width: 400px;
+  border-radius: 10px;
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  margin-left: -200px;
+  background-color: black;
+  box-shadow: 3px 3px 5px black;
+  transition: 1s all;
+  display: flex;
+}
+
+.player:hover .controls, player:focus .controls {
+  opacity: 1;
+}
+```
+- controlling the video
+```JavaScript
+stop.addEventListener('click', stopMedia);
+media.addEventListener('ended', stopMedia);
+
+function stopMedia() {
+  media.pause();
+  media.currentTime = 0;
+  play.setAttribute('data-icon','P');
+}
+```
+
+## Flash 201-206
+- Sadly not supported in many browsers anymore (rip homestarrunner)
+- Needs a plug-in to work
