@@ -48,9 +48,9 @@
 - [Lab: 08a - HTML/CSS Wireframe Exercise](https://github.com/TrevorStubbs/wirefame-exercise) *Complete*
 - [Lab: 08b - Work on styling the cookie stand project](https://github.com/TrevorStubbs/cookie-stand) *Complete*
 - [Lab: 09 - Add a form to the cookie stand project](https://github.com/TrevorStubbs/cookie-stand) *Complete*
-- Lab: 10a - Design comp (Chocolate Pizza)
-- Lab: 10b - Finish the salmon cookie stand project
-- Lab: 10c - Git Practice
+- [Lab: 10a - Design comp (Chocolate Pizza)](https://github.com/TrevorStubbs/chocolate-pizza) *Complete*
+- [Lab: 10b - Finish the salmon cookie stand project](https://github.com/TrevorStubbs/cookie-stand) *Complete*
+- [Lab: 10c - Git Practice](https://www.katacoda.com/courses/git) *Complete*
 
 #### Week 3
 
@@ -77,7 +77,7 @@
 - [Learning Journal: 07]() *Complete*
 - [Learning Journal: 08]() *Complete*
 - [Learning Journal: 09]() *Complete*
-- Learning Journal: 10
+- [Learning Journal: 10]() *Complete*
 
 #### Week 3
 
@@ -103,8 +103,8 @@
 
 #### Week 2
 
-- Career: Partner Power Hour, Report #2
-- Career: Targeted Job Search
+- [Career: Partner Power Hour, Report #2]() *Complete*
+- [Career: Targeted Job Search]() *Complete*
 
 #### Week 3
 
@@ -131,7 +131,7 @@
 - [Day 7](Notes/day7.md) *Complete
 - [Day 8](Notes/day8.md) *Complete*
 - [Day 9](Notes/day9.md) *Complete*
-- [Day 10](Notes/day10.md)
+- [Day 10](Notes/day10.md) *Complete*
 
 #### Week 3
 
