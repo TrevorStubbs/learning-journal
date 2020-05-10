@@ -22,7 +22,7 @@
 #### Week 3
 
 - [Read: 11 - Assorted Topics](Reading/class-11.md) *Complete*
-- Read: 12 - Docs for the HTML `<canvas>` Element & Chart.js
+- [Read: 12 - Docs for the HTML `<canvas>` Element & Chart.js](Reading/class-12.md)
 - Read: 13 -
 - Read: 14a - CSS Transforms, Transitions, and Animations
 - Read: 14b - What Google Learned About Teams
