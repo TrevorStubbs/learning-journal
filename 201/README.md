@@ -23,6 +23,7 @@
 
 - [Read: 11 - Assorted Topics](Reading/class-11.md) *Complete*
 - [Read: 12 - Docs for the HTML `<canvas>` Element & Chart.js](Reading/class-12.md) *Complete*
+- [Read: 13 - Local Storage](Reading/class-13.md) *Complete*
 - [Read: 14a - CSS Transforms, Transitions, and Animations](Reading/class-14a.md)
 - [Read: 14b - What Google Learned About Teams]()
 
