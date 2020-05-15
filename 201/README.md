@@ -84,7 +84,7 @@
 - [Learning Journal: 11]() *Complete*
 - [Learning Journal: 12]() *Complete*
 - [Learning Journal: 13]() *Complete*
-- Learning Journal: 14
+- [Learning Journal: 14]() *Complete*
 - Learning Journal: 15
 
 ---
@@ -138,7 +138,7 @@
 - [Day 11](Notes/day11.md) *Complete*
 - [Day 12](Notes/day12.md) *Complete*
 - [Day 13](Notes/day13.md) *Complete*
-- Day 14
+- [Day 14](Notes/day14.md) *Complete*
 - Day 15
 
 ---
