@@ -57,9 +57,9 @@
 - [Lab: 11 - Get started on BusMall](https://github.com/TrevorStubbs/Bus-Mall) *Complete*
 - [Lab: 12 - Add a chart to your BusMall app](https://github.com/TrevorStubbs/Bus-Mall) *Complete*
 - [Lab: 13 - Add local storage to BusMall](https://github.com/TrevorStubbs/Bus-Mall) *Complete*
-- Lab: 14 - Create an Order Form and a Shopping Cart
-- Lab: 15a - Merge conflicts with Bob, Carol, Ted, and Alice
-- Lab: 15b - Finish with the BusMall app
+- [Lab: 14 - Create an Order Form and a Shopping Cart] *Complete*
+- [Lab: 15a - Merge conflicts with Bob, Carol, Ted, and Alice] *Complete*
+- [Lab: 15b - Finish with the BusMall app] *Complete*
 
 ---
 
@@ -85,7 +85,7 @@
 - [Learning Journal: 12]() *Complete*
 - [Learning Journal: 13]() *Complete*
 - [Learning Journal: 14]() *Complete*
-- Learning Journal: 15
+- [Learning Journal: 15]() *Complete*
 
 ---
 
@@ -109,9 +109,9 @@
 #### Week 3
 
 - [Career: Give Your 60 Second Professional Pitch]() *Complete*
-- Career: Partner Power Hour, Report #3
-- Career: Resume Review By Your Accountability Partners
-- Career: Attend A Meetup
+- [Career: Partner Power Hour, Report #3] *Complete*
+- [Career: Resume Review By Your Accountability Partners] *Complete*
+- [Career: Attend A Meetup] *Complete*
 - [Career: Talk to Your Network]() *Complete*
 
 ---
@@ -139,7 +139,7 @@
 - [Day 12](Notes/day12.md) *Complete*
 - [Day 13](Notes/day13.md) *Complete*
 - [Day 14](Notes/day14.md) *Complete*
-- Day 15
+- [Day 15]* Complete
 
 ---
 
