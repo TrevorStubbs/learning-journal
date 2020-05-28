@@ -3,8 +3,8 @@
 > Note: This is my Reading Journal
 
 ### PreWork
-- [Prep: Setup of Your Laptop Dev Environment]
-- [Prep: Solo Learn: jQuery tutorial]
+- [Prep: Setup of Your Laptop Dev Environment]() *Complete*
+- [Prep: Solo Learn: jQuery tutorial]() *Complete*
 - Prep: Career Coaching Prep: Status Report
 - Prep: Setup Your Accounts
 - Prep: Setup Your Reading Notes Repo
