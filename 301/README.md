@@ -11,7 +11,7 @@
 
 ### Reading Notes:
 #### Week 1
-- Read: 01 - SMACSS and Responsive Web Design
+- [Read: 01 - SMACSS and Responsive Web Design](Reading/read-01.md) *Complete*
 - Read: 02 - jQuery, Events, and The DOM
 - Read: 03 - Flexbox and Templating
 - Read: 04 - Responsive Web Design and Regular Expressions
