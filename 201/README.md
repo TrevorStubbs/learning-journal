@@ -139,7 +139,7 @@
 - [Day 12](Notes/day12.md) *Complete*
 - [Day 13](Notes/day13.md) *Complete*
 - [Day 14](Notes/day14.md) *Complete*
-- [Day 15]* Complete
+- [Day 15](Notes/day15.md) *Complete*
 
 ---
 
