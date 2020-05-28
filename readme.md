@@ -3,7 +3,7 @@
 
 1. [Code 102](102/readme.md)
 1. [Code 201](201/README.md)
-1. Code 301
+1. [Code 301](301/README.md)
 1. Code 401 (C#)
 
 ### **About Me**:
