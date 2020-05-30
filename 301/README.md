@@ -13,9 +13,9 @@
 #### Week 1
 - [Read: 01 - SMACSS and Responsive Web Design](Reading/read-01.md) *Complete*
 - [Read: 02 - jQuery, Events, and The DOM](Reading/read-02.md) *Complete*
-- [Read: 03 - Flexbox and Templating](Reading/read-03.md)
-- Read: 04 - Responsive Web Design and Regular Expressions
-- Read: 05 - Heroku Deployment
+- [Read: 03 - Flexbox and Templating](Reading/read-03.md) *Complete*
+- [Read: 04 - Responsive Web Design and Regular Expressions](Reading/read-04.md) *Complete*
+- [Read: 05 - Heroku Deployment](Reading/read-05.md)
 #### Week 2 
 - Read: 06 - Node, Express, and APIs
 - Read: What Google Learned About Teams
