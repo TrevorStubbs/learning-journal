@@ -5,9 +5,9 @@
 ### PreWork
 - [Prep: Setup of Your Laptop Dev Environment]() *Complete*
 - [Prep: Solo Learn: jQuery tutorial]() *Complete*
-- Prep: Career Coaching Prep: Status Report
-- Prep: Setup Your Accounts
-- Prep: Setup Your Reading Notes Repo
+- [Prep: Career Coaching Prep: Status Report]() *Complete*
+- [Prep: Setup Your Accounts]() *Complete*
+- [Prep: Setup Your Reading Notes Repo]() *Complete* 
 
 ### Reading Notes:
 #### Week 1
@@ -35,10 +35,10 @@
 
 ### Labs:
 #### Week 1
-- Lab: 00a - ES6 let and const
-- Lab: 00b - ES6 Arrow Functions
-- Lab: 00c - Intro to SMACSS
-- Lab: 00d - Code Challenges Setup
+- [Lab: 00a - ES6 let and const](https://github.com/TrevorStubbs/seattle-301d63/pull/2) *Complete*
+- [Lab: 00b - ES6 Arrow Functions](https://github.com/TrevorStubbs/seattle-301d63/pull/3) *Complete*
+- [Lab: 00c - Intro to SMACSS](https://github.com/TrevorStubbs/seattle-301d63/pull/5) *Complete*
+- [Lab: 00d - Code Challenges Setup](https://github.com/TrevorStubbs/data-structures-and-algorithms) *Complete*
 - Lab: 01 - SMACSS and Responsive Web Design
 - Lab: 02 - jQuery Selectors and Events
 - Lab: 03 - Flexbox and Templating
@@ -103,14 +103,14 @@
 
 ### Career:
 #### Week 1
-- Career: Career Coaching Overview
-- Career: Behavioral Interview Questions
-- Career: Professional Etiquette
-- Career: Professional Pitch Video
-- Career: Update Your Resume
-- Career: Networking Opportunities
-- Career: Accountability Partners
-- Career: Coffee Meeting
+- [Career: Career Coaching Overview]() *Complete*
+- [Career: Behavioral Interview Questions]() *Complete*
+- [Career: Professional Etiquette]() *Complete*
+- [Career: Professional Pitch Video]() *Complete*
+- [Career: Update Your Resume]() *Complete*
+- [Career: Networking Opportunities]() *Complete*
+- [Career: Accountability Partners]() *Complete*
+- [Career: Coffee Meeting]() *Complete*
 - Career: Partner Power Hour, Report #1
 #### Week 2 
 - Career: Attend a Networking Event
