@@ -14,12 +14,12 @@
 1. Find elements using jQuery
     - `jQuery()` or `$()`
     - `$('li.hot')` - select a list item with the class hot
-1. Do something with the selected elemnt.
+1. Do something with the selected element.
     - `$('li.hot').addClass('complete');` - select the list items with the class 'hot' and add a new class called 'complete'.
     - No need to write fallback code.
 ### Why jQuery?
 1. simple selectors
-    - Much faster at selecing elemnts
+    - Much faster at selecting elements
     - can be more accurate
     - Often require less code
 1. Common tasks in less code
@@ -29,8 +29,8 @@
         - Handle events
         - Fade elements in/out of view
         - Handle Ajax requests
-1. Cross-browser compatability
-    - Older browsers don't support the lastes methods for selecting elements.
+1. Cross-browser compatibility
+    - Older browsers don't support the latest methods for selecting elements.
 
 ---
 
@@ -51,11 +51,11 @@
 - set `.html(['thing you want to set'])`
 ### jQuery Objects store references to elements
 - does not create a copy of the element
-### Catching jQurey Selectors in a varible
+### Catching jQurey Selectors in a variable
 - can create a jQuery variable by using $[variableName]
     - the $ tells the dev that its a jQuery variable
 ### Looping
-- jQuery automaticly loops through all the elements that have been selected. 
+- jQuery automatically loops through all the elements that have been selected. 
     - no need for a `for` or `while` loop.
 ### Chaining
 - you can chain methods together using dotNotation
@@ -67,7 +67,7 @@
     - SHould be used when your script relies on assets to have been loaded. 
 ### Getting element content
 - .html()
-    - will return the tags and the conent
+    - will return the tags and the content
 - .text()
     - will only return the inner text
 ### Updating Elements
@@ -79,9 +79,9 @@
 1. create the new elements in a jQuery object
     - `let $newDiv = $('<div>');` or `let $newDiv = $('<div>Inner Content</div>');`
 1. Use a method to insert the content into the page
-    - `.before()` inserts conent before the selected element
-    - `.after()` inserts conent after the selected element
-    - `.prepend()` inserts content in of selected element infront of all other elements
+    - `.before()` inserts content before the selected element
+    - `.after()` inserts content after the selected element
+    - `.prepend()` inserts content in of selected element in front of all other elements
     - `.append()` inserts content in the selected element behind all other elements.
 ### Get/Set Attributes
 - `.attr()` - used to get/set attributes
@@ -139,7 +139,7 @@ $('li').each(function(){
 - Listening: hearing and interpreting the vocab
 - Speaking: using the correct words to communicate an idea
 - Reading: understanding what written language intends to convey
-- Writing: producing from scratch meaningfullness
+- Writing: producing from scratch meaningfulness
 
 1. Greater Efficiency: 2 people working on the same code will catch mistakes in the making. Pair programming can take longer but produces higher-quality code. (less time debugging/troubleshooting).
 1. Engaged collaboration: More engaged and more focused. It's harder to procrastinate in a team. Easier to know when to ask for help.
