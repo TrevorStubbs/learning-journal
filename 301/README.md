@@ -15,9 +15,9 @@
 - [Read: 02 - jQuery, Events, and The DOM](Reading/read-02.md) *Complete*
 - [Read: 03 - Flexbox and Templating](Reading/read-03.md) *Complete*
 - [Read: 04 - Responsive Web Design and Regular Expressions](Reading/read-04.md) *Complete*
-- [Read: 05 - Heroku Deployment](Reading/read-05.md)
+- [Read: 05 - Heroku Deployment](Reading/read-05.md) *Complete*
 #### Week 2 
-- Read: 06 - Node, Express, and APIs
+- [Read: 06 - Node, Express, and APIs](Reading/read-06.md) *Complete*
 - Read: What Google Learned About Teams
 - Read: 07 - APIs continued
 - Read: 08 - SQL
