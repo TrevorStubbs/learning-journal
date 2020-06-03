@@ -18,8 +18,7 @@
 - [Read: 05 - Heroku Deployment](Reading/read-05.md) *Complete*
 #### Week 2 
 - [Read: 06 - Node, Express, and APIs](Reading/read-06.md) *Complete*
-- Read: What Google Learned About Teams
-- Read: 07 - APIs continued
+- [Read: 07 - APIs continued](Reading/read-07.md) *Complete*
 - Read: 08 - SQL
 - Read: 09 - Refactoring
 - Read: 10 - The Call Stack and Debugging
@@ -41,7 +40,7 @@
 - [Lab: 00d - Code Challenges Setup](https://github.com/TrevorStubbs/data-structures-and-algorithms) *Complete*
 - [Lab: 01 - SMACSS and Responsive Web Design](https://github.com/TrevorStubbs/Code301-Lab-01) *Complete*
 - [Lab: 02 - jQuery Selectors and Events](https://github.com/TrevorStubbs/Code301-Lab02) *Complete*
-- Lab: 03 - Flexbox and Templating
+- [Lab: 03 - Flexbox and Templating]
 - Lab: 04a - RWD Practice
 - Lab: 04b - Responsive Portfolio
 - Lab: 05 - Deploy & Extend Your Portfolio
