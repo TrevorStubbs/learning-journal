@@ -40,7 +40,7 @@
 - [Lab: 00c - Intro to SMACSS](https://github.com/TrevorStubbs/seattle-301d63/pull/5) *Complete*
 - [Lab: 00d - Code Challenges Setup](https://github.com/TrevorStubbs/data-structures-and-algorithms) *Complete*
 - [Lab: 01 - SMACSS and Responsive Web Design](https://github.com/TrevorStubbs/Code301-Lab-01) *Complete*
-- Lab: 02 - jQuery Selectors and Events
+- [Lab: 02 - jQuery Selectors and Events](https://github.com/TrevorStubbs/Code301-Lab02) *Complete*
 - Lab: 03 - Flexbox and Templating
 - Lab: 04a - RWD Practice
 - Lab: 04b - Responsive Portfolio
@@ -62,7 +62,7 @@
 ### Code Challenge
 #### Week 1
 - [Code Challenge: 01 - forEach](https://github.com/TrevorStubbs/data-structures-and-algorithms/tree/master/code-challenges/for-each) *Complete*
-- Code Challenge: 02 - Pass by value, pass by reference
+- [Code Challenge: 02 - Pass by value, pass by reference]() *Compete*
 - Code Challenge: 03 - Sort
 - Code Challenge: 04 - Regular expressions, part 1
 - Code Challenge: 05 - Split, join, slice, splice
@@ -83,7 +83,7 @@
 ### Retro
 #### Week 1
 - [Retro: 01 - SMACSS and Responsive Web Design]() *Complete*
-- Retro: 02 - jQuery, Events, and The DOM
+- [Retro: 02 - jQuery, Events, and The DOM]() *Complete*
 - Retro: 03 - Flexbox and Templating
 - Retro: 04 - Responsive Web Design and Regular Expressions
 - Retro: 05 - Heroku Deployment
@@ -126,7 +126,7 @@
 ### Notes:
 #### Week 1
 - [Day 1](Notes/day1.md) *Complete*
-- [Day 2](Notes/day2.md)
+- [Day 2](Notes/day2.md) *Complete*
 - [Day 3](Notes/day3.md)
 - [Day 4](Notes/day4.md)
 - [Day 5](Notes/day5.md)
