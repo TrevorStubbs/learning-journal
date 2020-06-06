@@ -19,7 +19,7 @@
 #### Week 2 
 - [Read: 06 - Node, Express, and APIs](Reading/read-06.md) *Complete*
 - [Read: 07 - APIs continued](Reading/read-07.md) *Complete*
-- Read: 08 - SQL
+- [Read: 08 - SQL](Reading/read-08.md) *Complete*
 - Read: 09 - Refactoring
 - Read: 10 - The Call Stack and Debugging
 #### Week 3
@@ -41,9 +41,9 @@
 - [Lab: 01 - SMACSS and Responsive Web Design](https://github.com/TrevorStubbs/Code301-Lab-01) *Complete*
 - [Lab: 02 - jQuery Selectors and Events](https://github.com/TrevorStubbs/Code301-Lab02) *Complete*
 - [Lab: 03 - Flexbox and Templating](https://github.com/TrevorStubbs/Code301-Lab02) *Complete*
-- Lab: 04a - RWD Practice
-- Lab: 04b - Responsive Portfolio
-- Lab: 05 - Deploy & Extend Your Portfolio
+- [Lab: 04a - RWD Practice]() *Complete*
+- [Lab: 04b - Responsive Portfolio]() *Complete*
+- [Lab: 05 - Deploy & Extend Your Portfolio]() *Complete*
 #### Week 2 
 - Lab: 06 - Node, npm, and Express
 - Lab: 07 - APIs
@@ -63,8 +63,8 @@
 - [Code Challenge: 01 - forEach](https://github.com/TrevorStubbs/data-structures-and-algorithms/tree/master/code-challenges/for-each) *Complete*
 - [Code Challenge: 02 - Pass by value, pass by reference](https://github.com/TrevorStubbs/data-structures-and-algorithms/tree/master/code-challenges/value-vs-reference) *Compete*
 - [Code Challenge: 03 - Sort](https://github.com/TrevorStubbs/data-structures-and-algorithms/tree/master/code-challenges/JavaScriptSort) *Complete*
-- Code Challenge: 04 - Regular expressions, part 1
-- Code Challenge: 05 - Split, join, slice, splice
+- [Code Challenge: 04 - Regular expressions, part 1]() *Complete*
+- [Code Challenge: 05 - Split, join, slice, splice]() *Complete*
 #### Week 2 
 - Code Challenge: 06 - Object.keys, Object.values, Object.entries
 - Code Challenge: 07 - Map
@@ -84,8 +84,8 @@
 - [Retro: 01 - SMACSS and Responsive Web Design]() *Complete*
 - [Retro: 02 - jQuery, Events, and The DOM]() *Complete*
 - [Retro: 03 - Flexbox and Templating]() *Complete*
-- Retro: 04 - Responsive Web Design and Regular Expressions
-- Retro: 05 - Heroku Deployment
+- [Retro: 04 - Responsive Web Design and Regular Expressions]() *Complete*
+- [Retro: 05 - Heroku Deployment]() *Complete*
 #### Week 2 
 - Retro: 06 - Node, Express, and APIs
 - Retro: 07 - APIs continued
@@ -110,7 +110,7 @@
 - [Career: Networking Opportunities]() *Complete*
 - [Career: Accountability Partners]() *Complete*
 - [Career: Coffee Meeting]() *Complete*
-- Career: Partner Power Hour, Report #1
+- [Career: Partner Power Hour, Report #1]() *Complete*
 #### Week 2 
 - Career: Attend a Networking Event
 - Career: Behavioral Questions & Mock Interviews
@@ -127,8 +127,8 @@
 - [Day 1](Notes/day1.md) *Complete*
 - [Day 2](Notes/day2.md) *Complete*
 - [Day 3](Notes/day3.md) *Complete*
-- [Day 4](Notes/day4.md)
-- [Day 5](Notes/day5.md)
+- [Day 4](Notes/day4.md) *Complete*
+- [Day 5](Notes/day5.md) *Complete*
 #### Week 2 
 - [Day 6](Notes/day6.md) 
 - [Day 7](Notes/day7.md) 
@@ -147,7 +147,7 @@
 ### Review:
 #### Week 1
 - [Review: Quiz #1]() *Complete*
-- Review: Quiz #2
+- [Review: Quiz #2]() *Complete*
 #### Week 2 
 - Review: Quiz #3
 - Review: Quiz #6
