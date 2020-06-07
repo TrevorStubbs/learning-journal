@@ -20,7 +20,7 @@
 - [Read: 06 - Node, Express, and APIs](Reading/read-06.md) *Complete*
 - [Read: 07 - APIs continued](Reading/read-07.md) *Complete*
 - [Read: 08 - SQL](Reading/read-08.md) *Complete*
-- Read: 09 - Refactoring
+- [Read: 09 - Refactoring](Reading/read-09.md) *Complete*
 - Read: 10 - The Call Stack and Debugging
 #### Week 3
 - Read: 11 - EJS
