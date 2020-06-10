@@ -21,7 +21,7 @@
 - [Read: 07 - APIs continued](Reading/read-07.md) *Complete*
 - [Read: 08 - SQL](Reading/read-08.md) *Complete*
 - [Read: 09 - Refactoring](Reading/read-09.md) *Complete*
-- Read: 10 - The Call Stack and Debugging
+- [Read: 10 - The Call Stack and Debugging](Reading/read-10.md) *Complete*
 #### Week 3
 - Read: 11 - EJS
 - Read: 12 - Components
@@ -45,8 +45,8 @@
 - [Lab: 04b - Responsive Portfolio]() *Complete*
 - [Lab: 05 - Deploy & Extend Your Portfolio]() *Complete*
 #### Week 2 
-- Lab: 06 - Node, npm, and Express
-- Lab: 07 - APIs
+- [Lab: 06 - Node, npm, and Express]() *Complete*
+- [Lab: 07 - APIs]() *Complete*
 - Lab: 08 - Persistence with a SQL Database
 - Lab: 09 - SQL continued
 - Lab: 10 - The Call Stack and Debugging
@@ -66,8 +66,8 @@
 - [Code Challenge: 04 - Regular expressions, part 1]() *Complete*
 - [Code Challenge: 05 - Split, join, slice, splice]() *Complete*
 #### Week 2 
-- Code Challenge: 06 - Object.keys, Object.values, Object.entries
-- Code Challenge: 07 - Map
+- [Code Challenge: 06 - Object.keys, Object.values, Object.entries]() *Complete*
+- [Code Challenge: 07 - Map]() *Complete*
 - Code Challenge: 08 - Filter
 - Code Challenge: 09 - Reduce
 - Code Challenge: 10 - Chaining methods
@@ -87,8 +87,8 @@
 - [Retro: 04 - Responsive Web Design and Regular Expressions]() *Complete*
 - [Retro: 05 - Heroku Deployment]() *Complete*
 #### Week 2 
-- Retro: 06 - Node, Express, and APIs
-- Retro: 07 - APIs continued
+- [Retro: 06 - Node, Express, and APIs]() *Complete*
+- [Retro: 07 - APIs continued]() *Complete*
 - Retro: 08 - SQL
 - Retro: 09 - Refactoring
 - Retro: 10 - The Call Stack and Debugging
@@ -130,8 +130,8 @@
 - [Day 4](Notes/day4.md) *Complete*
 - [Day 5](Notes/day5.md) *Complete*
 #### Week 2 
-- [Day 6](Notes/day6.md) 
-- [Day 7](Notes/day7.md) 
+- [Day 6](Notes/day6.md) *Complete*
+- [Day 7](Notes/day7.md) *Complete*
 - [Day 8](Notes/day8.md) 
 - [Day 9](Notes/day9.md) 
 - [Day 10](Notes/day10.md)
@@ -149,7 +149,7 @@
 - [Review: Quiz #1]() *Complete*
 - [Review: Quiz #2]() *Complete*
 #### Week 2 
-- Review: Quiz #3
+- [Review: Quiz #3]() *Complete*
 - Review: Quiz #6
 #### Week 3
 - Review: Quiz #5
