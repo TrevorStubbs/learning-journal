@@ -47,7 +47,7 @@
 #### Week 2 
 - [Lab: 06 - Node, npm, and Express]() *Complete*
 - [Lab: 07 - APIs]() *Complete*
-- Lab: 08 - Persistence with a SQL Database
+- [Lab: 08 - Persistence with a SQL Database]() *Complete*
 - Lab: 09 - SQL continued
 - Lab: 10 - The Call Stack and Debugging
 #### Week 3
@@ -68,7 +68,7 @@
 #### Week 2 
 - [Code Challenge: 06 - Object.keys, Object.values, Object.entries]() *Complete*
 - [Code Challenge: 07 - Map]() *Complete*
-- Code Challenge: 08 - Filter
+- [Code Challenge: 08 - Filter]() *Complete*
 - Code Challenge: 09 - Reduce
 - Code Challenge: 10 - Chaining methods
 #### Week 3
@@ -132,7 +132,7 @@
 #### Week 2 
 - [Day 6](Notes/day6.md) *Complete*
 - [Day 7](Notes/day7.md) *Complete*
-- [Day 8](Notes/day8.md) 
+- [Day 8](Notes/day8.md) *Complete*
 - [Day 9](Notes/day9.md) 
 - [Day 10](Notes/day10.md)
 #### Week 3
