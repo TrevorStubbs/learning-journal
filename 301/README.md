@@ -23,7 +23,7 @@
 - [Read: 09 - Refactoring](Reading/read-09.md) *Complete*
 - [Read: 10 - The Call Stack and Debugging](Reading/read-10.md) *Complete*
 #### Week 3
-- Read: 11 - EJS
+- [Read: 11 - EJS](Reading/Read-11.md) *Complete*
 - Read: 12 - Components
 - Read: 14b - Project Ideas & APIs
 - Read: 13 - Update/Delete
