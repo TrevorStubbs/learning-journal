@@ -24,7 +24,7 @@
 - [Read: 10 - The Call Stack and Debugging](Reading/read-10.md) *Complete*
 #### Week 3
 - [Read: 11 - EJS](Reading/read-11.md) *Complete*
-- Read: 12 - Components
+- [Read: 12 - Components](Reading/read-12.md) *Complete*
 - Read: 14b - Project Ideas & APIs
 - Read: 13 - Update/Delete
 - Read: 14a - DB Normalization
