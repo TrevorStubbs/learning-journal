@@ -25,9 +25,9 @@
 #### Week 3
 - [Read: 11 - EJS](Reading/read-11.md) *Complete*
 - [Read: 12 - Components](Reading/read-12.md) *Complete*
-- Read: 14b - Project Ideas & APIs
-- Read: 13 - Update/Delete
+- [Read: 13 - Update/Delete](Reading/read-13.md) *Complete*
 - Read: 14a - DB Normalization
+- Read: 14b - Project Ideas & APIs
 - Read: 15 - Diversity and Inclusion
 
 ---
@@ -69,11 +69,11 @@
 - [Code Challenge: 06 - Object.keys, Object.values, Object.entries]() *Complete*
 - [Code Challenge: 07 - Map]() *Complete*
 - [Code Challenge: 08 - Filter]() *Complete*
-- Code Challenge: 09 - Reduce
-- Code Challenge: 10 - Chaining methods
+- [Code Challenge: 09 - Reduce]() *Complete*
+- [Code Challenge: 10 - Chaining methods]() *Complete*
 #### Week 3
-- Code Challenge: 11 - Regular expressions, part 2
-- Code Challenge: 12 - Two-dimensional arrays
+- [Code Challenge: 11 - Regular expressions, part 2]() *Complete*
+- [Code Challenge: 12 - Two-dimensional arrays]() *Complete*
 - Code Challenge: 13 - Includes, every, substring, charAt
 - Code Challenge: 14 - Combination of all methods
 
@@ -89,12 +89,12 @@
 #### Week 2 
 - [Retro: 06 - Node, Express, and APIs]() *Complete*
 - [Retro: 07 - APIs continued]() *Complete*
-- Retro: 08 - SQL
-- Retro: 09 - Refactoring
-- Retro: 10 - The Call Stack and Debugging
+- [Retro: 08 - SQL]() *Complete*
+- [Retro: 09 - Refactoring]() *Complete*
+- [Retro: 10 - The Call Stack and Debugging]() *Complete*
 #### Week 3
-- Retro: 11 - EJS
-- Retro: 12 - Components
+- [Retro: 11 - EJS]() *Complete*
+- [Retro: 12 - Components]() *Complete*
 - Retro: 13 - Update/Delete
 - Retro: 14 - DB Normalization
 
@@ -112,11 +112,11 @@
 - [Career: Coffee Meeting]() *Complete*
 - [Career: Partner Power Hour, Report #1]() *Complete*
 #### Week 2 
-- Career: Attend a Networking Event
-- Career: Behavioral Questions & Mock Interviews
-- Career: Targeted Job Search
-- Career: Professional Pitch and Introduction
-- Career: Partner Power Hour, Report #2
+- [Career: Attend a Networking Event]() *Complete*
+- [Career: Behavioral Questions & Mock Interviews]() *Complete*
+- [Career: Targeted Job Search]() *Complete*
+- [Career: Professional Pitch and Introduction]() *Complete*
+- [Career: Partner Power Hour, Report #2]() *Complete*
 #### Week 3
 - Career: Partner Power Hour, Report #3
 
@@ -133,11 +133,11 @@
 - [Day 6](Notes/day6.md) *Complete*
 - [Day 7](Notes/day7.md) *Complete*
 - [Day 8](Notes/day8.md) *Complete*
-- [Day 9](Notes/day9.md) 
-- [Day 10](Notes/day10.md)
+- [Day 9](Notes/day9.md) *Complete*
+- [Day 10](Notes/day10.md) *Complete*
 #### Week 3
-- [Day 11](Notes/day11.md)
-- [Day 12](Notes/day12.md)
+- [Day 11](Notes/day11.md) *Complete*
+- [Day 12](Notes/day12.md) *Complete*
 - [Day 13](Notes/day13.md)
 - [Day 14](Notes/day14.md)
 - [Day 15](Notes/day15.md)
@@ -150,7 +150,7 @@
 - [Review: Quiz #2]() *Complete*
 #### Week 2 
 - [Review: Quiz #3]() *Complete*
-- Review: Quiz #6
+- [Review: Quiz #6]() *Complete*
 #### Week 3
 - Review: Quiz #5
 - Review: Quiz #4
