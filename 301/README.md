@@ -26,8 +26,8 @@
 - [Read: 11 - EJS](Reading/read-11.md) *Complete*
 - [Read: 12 - Components](Reading/read-12.md) *Complete*
 - [Read: 13 - Update/Delete](Reading/read-13.md) *Complete*
-- Read: 14a - DB Normalization
-- Read: 14b - Project Ideas & APIs
+- [Read: 14a - DB Normalization](Reading/read-14.md) *Complete*
+- [Read: 14b - Project Ideas & APIs]() *Complete*
 - Read: 15 - Diversity and Inclusion
 
 ---
@@ -48,12 +48,12 @@
 - [Lab: 06 - Node, npm, and Express]() *Complete*
 - [Lab: 07 - APIs]() *Complete*
 - [Lab: 08 - Persistence with a SQL Database]() *Complete*
-- Lab: 09 - SQL continued
-- Lab: 10 - The Call Stack and Debugging
+- [Lab: 09 - SQL continued]() *Complete*
+- [Lab: 10 - The Call Stack and Debugging]() *Complete*
 #### Week 3
-- Lab: 11 - EJS
-- Lab: 12 - Components and Forms
-- Lab: 13 - Resource Update and Delete
+- [Lab: 11 - EJS]() *Complete* 
+- [Lab: 12 - Components and Forms]() *Complete*
+- [Lab: 13 - Resource Update and Delete]() *Complete*
 - Lab: 14 - Database Normalization
 
 ---
@@ -74,7 +74,7 @@
 #### Week 3
 - [Code Challenge: 11 - Regular expressions, part 2]() *Complete*
 - [Code Challenge: 12 - Two-dimensional arrays]() *Complete*
-- Code Challenge: 13 - Includes, every, substring, charAt
+- [Code Challenge: 13 - Includes, every, substring, charAt]() *Complete*
 - Code Challenge: 14 - Combination of all methods
 
 ---
@@ -95,7 +95,7 @@
 #### Week 3
 - [Retro: 11 - EJS]() *Complete*
 - [Retro: 12 - Components]() *Complete*
-- Retro: 13 - Update/Delete
+- [Retro: 13 - Update/Delete]() *Complete*
 - Retro: 14 - DB Normalization
 
 ---
@@ -138,7 +138,7 @@
 #### Week 3
 - [Day 11](Notes/day11.md) *Complete*
 - [Day 12](Notes/day12.md) *Complete*
-- [Day 13](Notes/day13.md)
+- [Day 13](Notes/day13.md) *Complete*
 - [Day 14](Notes/day14.md)
 - [Day 15](Notes/day15.md)
 
@@ -152,8 +152,8 @@
 - [Review: Quiz #3]() *Complete*
 - [Review: Quiz #6]() *Complete*
 #### Week 3
-- Review: Quiz #5
-- Review: Quiz #4
+- [Review: Quiz #4]() *Complete*
+- [Review: Quiz #5]() *Complete*
 
 --- 
 
