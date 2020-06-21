@@ -28,7 +28,7 @@
 - [Read: 13 - Update/Delete](Reading/read-13.md) *Complete*
 - [Read: 14a - DB Normalization](Reading/read-14.md) *Complete*
 - [Read: 14b - Project Ideas & APIs]() *Complete*
-- Read: 15 - Diversity and Inclusion
+- [Read: 15 - Diversity and Inclusion](Reading/read-15.md) *Complete*
 
 ---
 
