@@ -3,10 +3,10 @@
 > Note: This is my Reading Journal
 
 ### PreWork
-- Prep: DSA Practice	
+- Prep: DSA Practice *Complete*
 - Prep: Install Visual Studio Community	
 - Prep: Pre-work Technical Quiz
-- Prep: Read .NET Core Guide
+- Prep: Read .NET Core Guide *Complete*
 - Prep: Read About Mindsets	
 - Prep: Read C# Version History
 - Prep: Read the Syllabus
