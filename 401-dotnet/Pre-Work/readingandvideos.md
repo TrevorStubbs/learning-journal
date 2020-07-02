@@ -174,7 +174,17 @@ jaggedArray[0] = new int[4] { 1, 2, 3, 4 };
 - A set of libraries baked into Windows 8+
 - object oriented libraries the essential part of Win10.
 
+#### New to C#
 - what are out variables
+- pattern variables
 
+- local methods
+    - a method inside a method
+- deconstructors
+    - assigns fields back to a set of variables.
+- tuple support
+    - acts like a JS object
+- Throws
+- Nullable types
 
 ### Chapter 2: C# Language Basics
