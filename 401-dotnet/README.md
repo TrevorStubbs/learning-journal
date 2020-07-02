@@ -259,14 +259,54 @@
 
 ### Notes
 #### Week 1
+- [Day 1](Notes/day1.md)
+- [Day 2](Notes/day2.md)
+- [Day 3](Notes/day3.md)
+- [Day 4](Notes/day4.md)
+- [Day 5](Notes/day5.md)
 #### Week 2
+- [Day 6](Notes/day6.md)
+- [Day 7](Notes/day7.md)
+- [Day 8](Notes/day8.md)
+- [Day 9](Notes/day9.md)
+- [Day 10](Notes/day10.md)
 #### Week 3
+- [Day 11](Notes/day11.md)
+- [Day 12](Notes/day12.md)
+- [Day 13](Notes/day13.md)
+- [Day 14](Notes/day14.md)
+- [Day 15](Notes/day15.md)
 #### Week 4
+- [Day 16](Notes/day16.md)
+- [Day 17](Notes/day17.md)
+- [Day 18](Notes/day18.md)
+- [Day 19](Notes/day19.md)
+- [Day 20](Notes/day20.md)
 #### Week 5
 #### Week 6
+- [Day 26](Notes/day26.md)
+- [Day 27](Notes/day27.md)
+- [Day 28](Notes/day28.md)
+- [Day 29](Notes/day29.md)
+- [Day 30](Notes/day30.md)
 #### Week 7
+- [Day 31](Notes/day31.md)
+- [Day 32](Notes/day32.md)
+- [Day 33](Notes/day33.md)
+- [Day 34](Notes/day34.md)
+- [Day 35](Notes/day35.md)
 #### Week 8
+- [Day 36](Notes/day36.md)
+- [Day 37](Notes/day37.md)
+- [Day 38](Notes/day38.md)
+- [Day 39](Notes/day39.md)
+- [Day 40](Notes/day40.md)
 #### Week 9
+- [Day 41](Notes/day41.md)
+- [Day 42](Notes/day42.md)
+- [Day 43](Notes/day43.md)
+- [Day 44](Notes/day44.md)
+- [Day 45](Notes/day45.md)
 #### Week 10
 
 ### Projects
