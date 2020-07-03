@@ -5,17 +5,17 @@
 ### PreWork
 - Prep: DSA Practice *Complete*
 - Prep: Install Visual Studio Community	
-- Prep: Pre-work Technical Quiz
+- Prep: Pre-work Technical Quiz *Complete*
 - Prep: Read .NET Core Guide *Complete*
-- Prep: Read About Mindsets	
-- Prep: Read C# Version History
-- Prep: Read the Syllabus
-- Prep: Career Coaching Status Report
-- Prep: Setup your Slack Account
+- Prep: Read About Mindsets *Complete*	
+- Prep: Read C# Version History *Complete*
+- Prep: Read the Syllabus *Complete*
+- Prep: Career Coaching Status Report *Complete*
+- Prep: Setup your Slack Account *Complete*
 
 ### Reading Notes:
 #### Week 1
-- Read: Exception Handling & Debugging
+- [Read: Exception Handling & Debugging](Reading/read-1.md) *Complete*
 - Read: Unit Tests & Documentation
 -	Read: System.I.O
 - Read: Classes & Objects	
