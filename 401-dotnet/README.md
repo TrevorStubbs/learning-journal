@@ -15,7 +15,7 @@
 
 ### Reading Notes:
 #### Week 1
-- [Read: Exception Handling & Debugging](Reading/read-1.md) *Complete*
+- [Read: Exception Handling & Debugging](Reading/read-01.md) *Complete*
 - Read: Unit Tests & Documentation
 -	Read: System.I.O
 - Read: Classes & Objects	
