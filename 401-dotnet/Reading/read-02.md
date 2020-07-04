@@ -9,39 +9,39 @@
 ## Unit Testing Best Practices
 ### What isn't a unit test?
 - adding things to a DB or reading a file is not a unit test
-- Unit tests dont deal with their environment
+- Unit tests don't deal with their environment
 - Smoke test vs Unit test
     - throwing thousands of tests at a service
 ### What is a unit test?
-- they isolate and exercise specivic units of code. 
+- they isolate and exercise specific units of code. 
 - Unit is a method
 - tests something specific about that method in isolation.
-    - they dont test all the things
+    - they don't test all the things
 ### Antaomy of a Unit Test
 - name the class [NameOfTheThingTested]Test  
     - so you know what method it is testing
-    - it gets an attribulte [TestClass]
+    - it gets an attribute [TestClass]
     - name the testing method exactly how you are testing it
         - `Adding_4_And_3_Should_Return_7`
     - use the `Assert` class's methods to test what you need.
         - `Assert.AreEqual`
     
 ### UT Best Practices
-1. Arrange, Act, Asert
+1. Arrange, Act, Assert
     - Lean on the scientific method
     - Your test name is a hypothesis
         - the result is your experiment
-    - First arrange evertything we need to run the experiment.
+    - First arrange everything we need to run the experiment.
     - Act - run the test
     - Assert - what is the result and does it match your hypothesis?
 1. One Assert Per Test Method
     - Test only 1 thing at a time
         - same as methods
     - I will be hard to understand what went wrong if there are more than 1 assertions per test.
-1. Avoid Test Interdepenedence
+1. Avoid Test Interdependence
     - Each test should handle its own setup and tear down. 
-    - Tests might run in parrelle or out of order
-        - don't depend on the order for a sucessful test. 
+    - Tests might run in parallel or out of order
+        - don't depend on the order for a successful test. 
 1. Keep it Short, Sweet and Visible
     - Resist abstract test setup.
         - some argue that base classes are inappropriate in testing.
@@ -75,7 +75,7 @@
 - `dotnet test`
 - [Fact] Vs [Theory]
     - Facts are always true. They test invariant conditions
-    - Theroies are tests which are only true for a particular set of data.
+    - Theories are tests which are only true for a particular set of data.
         - something to cause the test to fail but not cause of a bad algorithm.
 
 ### Multi target tests
@@ -93,7 +93,7 @@
 
 ## Art of README
 - all caps
-- Writting good docs is all about getting the user out of the source code.
+- Writing good docs is all about getting the user out of the source code.
 ### The README: Your one-stop shop
 1. tell them what your module (app) is
 1. show them what it looks like in action
