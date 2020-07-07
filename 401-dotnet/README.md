@@ -18,7 +18,7 @@
 - [Read: Exception Handling & Debugging](Reading/read-01.md) *Complete*
 - [Read: Unit Tests & Documentation](Reading/read-02.md) *Complete*
 -	[Read: System.I.O](Reading/read-03.md) *Complete*
-- Read: Classes & Objects	
+- [Read: Classes & Objects](Reading/read-04.md)	*Complete*
 - Read: Linked Lists	
 #### Week 2
 - Read: OOP Principles	
