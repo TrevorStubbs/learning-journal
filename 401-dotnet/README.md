@@ -259,8 +259,8 @@
 
 ### Notes
 #### Week 1
-- [Day 1](Notes/day1.md)
-- [Day 2](Notes/day2.md)
+- [Day 1](Notes/day1.md) *Complete*
+- [Day 2](Notes/day2.md) *Complete*
 - [Day 3](Notes/day3.md)
 - [Day 4](Notes/day4.md)
 - [Day 5](Notes/day5.md)
