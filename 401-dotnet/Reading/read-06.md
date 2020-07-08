@@ -1,0 +1,3 @@
+# Read: OOP Principles
+
+I think I am finally understanding the difference between Structs and Classes. Structs are value types which means they live on the stack. Classes are reference types and live in the heap. It's cool how you can keep classes private. I can think of some cool engineer tricks that you can use by having properties within classes only be changed by the methods within them. I still don't completely understand interfaces. I get when they are. But I am not entirely sure of how and when implement them.

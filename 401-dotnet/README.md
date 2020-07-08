@@ -21,7 +21,7 @@
 - [Read: Classes & Objects](Reading/read-04.md)	*Complete*
 - [Read: Linked Lists	](Reading/read-05.md) *Complete*
 #### Week 2
-- Read: OOP Principles	
+- [Read: OOP Principles](Reading/read-06.md) *Complete*
 - Read: Interfaces	
 - Read: Collections	
 - Read: LINQ	
