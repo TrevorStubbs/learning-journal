@@ -3,15 +3,15 @@
 > Note: This is my Reading Journal
 
 ### PreWork
-- Prep: DSA Practice *Complete*
-- Prep: Install Visual Studio Community	
-- Prep: Pre-work Technical Quiz *Complete*
-- Prep: Read .NET Core Guide *Complete*
-- Prep: Read About Mindsets *Complete*	
-- Prep: Read C# Version History *Complete*
-- Prep: Read the Syllabus *Complete*
-- Prep: Career Coaching Status Report *Complete*
-- Prep: Setup your Slack Account *Complete*
+- [Prep: DSA Practice]() *Complete*
+- [Prep: Install Visual Studio]() Community	
+- [Prep: Pre-work Technical Quiz]() *Complete*
+- [Prep: Read .NET Core Guide]() *Complete*
+- [Prep: Read About Mindsets]() *Complete*	
+- [Prep: Read C# Version History]() *Complete*
+- [Prep: Read the Syllabus]() *Complete*
+- [Prep: Career Coaching Status]() Report *Complete*
+- [Prep: Setup your Slack Account]() *Complete*
 
 ### Reading Notes:
 #### Week 1
@@ -19,7 +19,7 @@
 - [Read: Unit Tests & Documentation](Reading/read-02.md) *Complete*
 -	[Read: System.I.O](Reading/read-03.md) *Complete*
 - [Read: Classes & Objects](Reading/read-04.md)	*Complete*
-- Read: Linked Lists	
+- [Read: Linked Lists	](Reading/read-05.md) *Complete*
 #### Week 2
 - Read: OOP Principles	
 - Read: Interfaces	
@@ -59,9 +59,9 @@
 
 ### Labs:
 #### Week 1
-- Lab: 01a - Exception Handling & Debugging 
-- Lab: 01b - Debugging Practice
-- Lab: 02 - Unit Tests & Documentation
+- [Lab: 01a - Exception Handling & Debugging]() *Complete*
+- [Lab: 01b - Debugging Practice]() *Complete*
+- [Lab: 02 - Unit Tests & Documentation]() *Complete*
 - Lab: 03 - System I.O
 - Lab: 04 - Classes & Objects (tic-tac-toe)	
 #### Week 2
@@ -107,7 +107,7 @@
 
 ### Code Challenges 
 #### Week 1
-- Code Challenge: Class 02
+- [Code Challenge: Class 02]() *Complete*
 - Code Challenge: Class 03	
 - Code Challenge: Class 04	
 - Code Challenge: Class 05: Linked List Implementation	
@@ -155,8 +155,8 @@
 
 ### Learning Journal
 #### Week 1
-- Learning Journal: Class 01
-- Learning Journal: Class 02
+- [Learning Journal: Class 01]() *Complete*
+- [Learning Journal: Class 02]() *Complete*
 - Learning Journal: Class 03
 - Learning Journal: Class 04	
 - Learning Journal: Class 05	
@@ -207,7 +207,7 @@
 
 ### Career:
 #### Week 1
-- Career Coaching Workshop #1 Prep - Resume	
+- [Career Coaching Workshop #1 Prep - Resume] *Complete*
 - Career Coaching Workshop #1: Accountability Partners	
 - Career Coaching Workshop #1: Networking Gameplan	
 - Career Coaching Workshop #1: Completed Resume	
