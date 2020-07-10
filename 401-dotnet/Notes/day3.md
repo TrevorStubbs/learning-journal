@@ -5,7 +5,7 @@
 
 - fact 1 outcome
     - no params
-- therory 2 or more outcomes
+- theory 2 or more outcomes
     - theories have params
 
 ## System IO
@@ -31,9 +31,9 @@
     - object
         - had data and methods
     - flows in 1 direction
-    - can have mupliple streams open
+    - can have multiple streams open
     - StreamReader and  StreamWriter
-    - converstions have to happend in streams
+    - conversions have to happened in streams
 - file stream
     - default path
         - bin folder
