@@ -22,7 +22,7 @@
 - [Read: Linked Lists	](Reading/read-05.md) *Complete*
 #### Week 2
 - [Read: OOP Principles](Reading/read-06.md) *Complete*
-- Read: Interfaces	
+- [Read: Interfaces](Reading/read-07.md) *Complete*
 - Read: Collections	
 - Read: LINQ	
 - Read: Stacks & Queues	
@@ -62,8 +62,8 @@
 - [Lab: 01a - Exception Handling & Debugging]() *Complete*
 - [Lab: 01b - Debugging Practice]() *Complete*
 - [Lab: 02 - Unit Tests & Documentation]() *Complete*
-- Lab: 03 - System I.O
-- Lab: 04 - Classes & Objects (tic-tac-toe)	
+- [Lab: 03 - System I.O]() *Complete*
+- [Lab: 04 - Classes & Objects (tic-tac-toe)]() *Complete*
 #### Week 2
 - Lab: 06 - OOP Principles (Part 1/2)	
 - Lab: 07- Interfaces (Part 2/2)	
@@ -108,9 +108,9 @@
 ### Code Challenges 
 #### Week 1
 - [Code Challenge: Class 02]() *Complete*
-- Code Challenge: Class 03	
-- Code Challenge: Class 04	
-- Code Challenge: Class 05: Linked List Implementation	
+- [Code Challenge: Class 03]() *Complete*	
+- [Code Challenge: Class 04]() *Complete*
+- [Code Challenge: Class 05: Linked List Implementation]() *Complete*	
 #### Week 2
 - Code Challenge: Class 06	
 - Code Challenge: Class 07	
@@ -157,9 +157,9 @@
 #### Week 1
 - [Learning Journal: Class 01]() *Complete*
 - [Learning Journal: Class 02]() *Complete*
-- Learning Journal: Class 03
-- Learning Journal: Class 04	
-- Learning Journal: Class 05	
+- [Learning Journal: Class 03]() *Complete*
+- [Learning Journal: Class 04]() *Complete*
+- [Learning Journal: Class 05]() *Complete*
 #### Week 2
 - Learning Journal: Class 06	
 - Learning Journal: Class 07	
@@ -207,11 +207,11 @@
 
 ### Career:
 #### Week 1
-- [Career Coaching Workshop #1 Prep - Resume] *Complete*
-- Career Coaching Workshop #1: Accountability Partners	
-- Career Coaching Workshop #1: Networking Gameplan	
-- Career Coaching Workshop #1: Completed Resume	
-- Career: Partner Power Hour - Report #1	
+- [Career Coaching Workshop #1 Prep - Resume]() *Complete*
+- [Career Coaching Workshop #1: Accountability Partners]() *Complete*
+- [Career Coaching Workshop #1: Networking Gameplan]() *Complete*
+- [Career Coaching Workshop #1: Completed Resume]() *Complete*
+- [Career: Partner Power Hour - Report #1]() *Complete*
 #### Week 2
 - Career Coaching Workshop #2 Prep - Personal Pitch	
 - Career Coaching Workshop #2 Prep - Stage Fright	
@@ -261,9 +261,9 @@
 #### Week 1
 - [Day 1](Notes/day1.md) *Complete*
 - [Day 2](Notes/day2.md) *Complete*
-- [Day 3](Notes/day3.md)
-- [Day 4](Notes/day4.md)
-- [Day 5](Notes/day5.md)
+- [Day 3](Notes/day3.md) *Complete*
+- [Day 4](Notes/day4.md) *Complete*
+- [Day 5](Notes/day5.md) *Complete*
 #### Week 2
 - [Day 6](Notes/day6.md)
 - [Day 7](Notes/day7.md)
@@ -361,7 +361,7 @@
 
 ### Feedback:
 #### Week 1
-- Feedback: Week 1	
+- [Feedback: Week 1]() *Complete*
 #### Week 2
 - Feedback: Week 2	
 #### Week 3
