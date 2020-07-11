@@ -23,7 +23,7 @@
 #### Week 2
 - [Read: OOP Principles](Reading/read-06.md) *Complete*
 - [Read: Interfaces](Reading/read-07.md) *Complete*
-- Read: Collections	
+- [Read: Collections](Reading/read-08.md) *Complete*
 - Read: LINQ	
 - Read: Stacks & Queues	
 #### Week 3
