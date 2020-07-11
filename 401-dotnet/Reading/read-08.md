@@ -9,22 +9,22 @@
 ## Collections
 - Colletion Categories
     - interfaces that define standard collection protocols
-    - ready-to-use collection classes (lists, dicetionaries, etc)
+    - ready-to-use collection classes (lists, dictionaries, etc)
     - Base classes for writing application-specific collections
 
 - Collection Namespaces
     - `System.Collections` - Non generic
-    - `System.Collections.Specialized` - strongly typed nongeneric
+    - `System.Collections.Specialized` - strongly typed non-generic
     - `System.Collections.Generic` - Generic (take any type)
     - `System.Collections.ObjectModel` - Proxies and bases for custom collections    
-    - `System.Collections.Concurrent` - Thread-safe collctions
+    - `System.Collections.Concurrent` - Thread-safe collections
 
 ### Enumeration
-- Give the ability to travers the contens of the collection.
+- Give the ability to traverse the contents of the collection.
 - 2 interfaces
     - `IEnumerable`
     - `IEnumerator`
-- IEnuberator
+- IEnumerator
 ``` C#
 public interface IEnumerator
 {
@@ -34,26 +34,26 @@ public interface IEnumerator
     void Reset();
 }
 ```
-- IEnumeratable
-    - Cellections do not usually implement enumerators: instead, they provide enumerators via `IEnumbeabvle`
+- IEnumerable
+    - Collections do not usually implement enumerators: instead, they provide enumerators via `IEnumerable`
 
-- Methods rarely call on enumeators dirctly cause `foreach` does it for you.
+- Methods rarely call on enumerators directly cause `foreach` does it for you.
 
-- Genteric 
+- Generic
     - `IEnumbeable<T>` and `IEnumerator<T>`
 
-## Implementing the Enumberation Interfaces
+## Implementing the Enumeration Interfaces
 - Support the `foreach` statement
-- to interoperate with anything expecting a standard collection
-- To meet the rquierments of a more sophisticated collection interface
+- to interoperable with anything expecting a standard collection
+- To meet the requirements of a more sophisticated collection interface
 - to support collection initializers
 
 ### ICollection and IList Interfaces
-- Enumeartion allows for forward-only iteration over a collection
+- Enumeration allows for forward-only iteration over a collection
     - does not provide info about the collections size
 - use `ICollection` `IList` and `IDictionary`
-- `IEnumberable<T>` - Provides minimum functionalrity (enumeration only)
-- `ICollection<T>` - Provideds medium functionallty
+- `IEnumerable<T>` - Provides minimum functionality (enumeration only)
+- `ICollection<T>` - Provides medium functionality
 - `IList<T>`/`IDictionary<K,V>` - provide maximum functionality
 
 - `ICollection<T>`
@@ -149,12 +149,12 @@ BorderSide topSide = BorderSide.Top;
 bool isTop = (topSide == BorderSide.Top);
 ```
 - Underlying integral value.
-    - Automaticly assigned 0,1,2... in declaration order
+    - Automatically assigned 0,1,2... in declaration order
     - Can be changed by dev
 - Can change integral type like `byte`
 
 ### Enum Conversion
-- can cast enum instance from 1 integrl type to another
+- can cast enum instance from 1 integral type to another
     - must use explicit cast
 
 ### Flag Enums
@@ -176,15 +176,15 @@ public class OuterLevel
     public enum Color { Red, Blue, Tan }
 }
 ```
-- nested typed freatures:
+- nested typed features:
     - It can access the enclosing type's private members and everything else the enclosing type can access.
     - It can be declared with the full range of access modifiers, rather than just `public` and `internal`
     - The default accessibility for a nested type is `private` not `internal`.
 
 ### Generics
 - inheritance vs generics
-    - inheritance expresss reusability with a base type
-    - Generics express reusablity with a "template" that contains "placeholder" types.
+    - inheritance express reusability with a base type
+    - Generics express reusability with a "template" that contains "placeholder" types.
         - generics can increase type safety
 - `<T>` - is the place holder for the type
 ### Why Generics
@@ -193,7 +193,7 @@ public class OuterLevel
 ## Collections
 - 2 ways of grouping objects
     - arrays - fixed number of objects
-    - collections - unknown or flexable number of objects
+    - collections - unknown or flexible number of objects
 - can use `for` or `foreach` to iterate through a collection
 
 ### Kinds of Collections

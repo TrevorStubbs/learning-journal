@@ -24,7 +24,7 @@
 - [Read: OOP Principles](Reading/read-06.md) *Complete*
 - [Read: Interfaces](Reading/read-07.md) *Complete*
 - [Read: Collections](Reading/read-08.md) *Complete*
-- Read: LINQ	
+- [Read: LINQ](Reading/read-09.md) *Complete*
 - Read: Stacks & Queues	
 #### Week 3
 - Read: MVC	
