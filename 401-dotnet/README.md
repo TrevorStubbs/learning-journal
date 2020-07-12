@@ -25,7 +25,7 @@
 - [Read: Interfaces](Reading/read-07.md) *Complete*
 - [Read: Collections](Reading/read-08.md) *Complete*
 - [Read: LINQ](Reading/read-09.md) *Complete*
-- Read: Stacks & Queues	
+- [Read: Stacks & Queues](Reading/read-10.md) *Complete*
 #### Week 3
 - Read: MVC	
 - Read: Relational Databases	
