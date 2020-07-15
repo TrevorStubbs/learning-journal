@@ -27,7 +27,7 @@
 - [Read: LINQ](Reading/read-09.md) *Complete*
 - [Read: Stacks & Queues](Reading/read-10.md) *Complete*
 #### Week 3
-- Read: MVC	
+- [Read: MVC](Reading/read-11.md) *Complete*
 - Read: Relational Databases	
 - Read: Code First Migrations	
 - Read: Intro to APIs	
