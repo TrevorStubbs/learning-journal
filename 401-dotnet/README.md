@@ -29,7 +29,7 @@
 #### Week 3
 - [Read: MVC](Reading/read-11.md) *Complete*
 - [Read: Relational Databases](Reading/read-12.md) *Complete*
-- Read: Code First Migrations	
+- [Read: Code First Migrations](Reading/read-13.md) *Complete*	
 - Read: Intro to APIs	
 - Read: Trees	
 #### Week 4
