@@ -31,7 +31,7 @@
 
 - private rear
 - front is private
-- enqueue attactch to the rear.
+- enqueue attach to the rear.
 - dequeue remove something from the queue
 - FIFO - first in first out
 - LILO - Last in last out

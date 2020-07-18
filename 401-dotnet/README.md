@@ -28,7 +28,7 @@
 - [Read: Stacks & Queues](Reading/read-10.md) *Complete*
 #### Week 3
 - [Read: MVC](Reading/read-11.md) *Complete*
-- Read: Relational Databases	
+- [Read: Relational Databases](Reading/read-12.md) *Complete*
 - Read: Code First Migrations	
 - Read: Intro to APIs	
 - Read: Trees	
@@ -65,10 +65,10 @@
 - [Lab: 03 - System I.O]() *Complete*
 - [Lab: 04 - Classes & Objects (tic-tac-toe)]() *Complete*
 #### Week 2
-- Lab: 06 - OOP Principles (Part 1/2)	
-- Lab: 07- Interfaces (Part 2/2)	
-- Lab: 08 - Collections	
-- Lab: 09- LINQ	
+- Lab: 06 - OOP Principles (Part 1/2)	*Complete*
+- Lab: 07- Interfaces (Part 2/2)	*Complete*
+- Lab: 08 - Collections	*Complete*
+- Lab: 09- LINQ	*Complete*
 #### Week 3
 - Lab: 11 - Intro to MVC & Core	
 - Lab: 12 - Relational Databases	
@@ -112,11 +112,11 @@
 - [Code Challenge: Class 04]() *Complete*
 - [Code Challenge: Class 05: Linked List Implementation]() *Complete*	
 #### Week 2
-- Code Challenge: Class 06	
-- Code Challenge: Class 07	
-- Code Challenge: Class 08	
-- Code Challenge: Class 09	
-- Code Challenge: Class 10: Stack and a Queue Implementation	
+- Code Challenge: Class 06	*Complete*
+- Code Challenge: Class 07	*Complete*
+- Code Challenge: Class 08	*Complete*
+- Code Challenge: Class 09	*Complete*
+- Code Challenge: Class 10: Stack and a Queue Implementation	*Complete*
 #### Week 3
 - Code Challenge: Class 11	
 - Code Challenge: Class 12	
@@ -161,11 +161,11 @@
 - [Learning Journal: Class 04]() *Complete*
 - [Learning Journal: Class 05]() *Complete*
 #### Week 2
-- Learning Journal: Class 06	
-- Learning Journal: Class 07	
-- Learning Journal: Class 08	
-- Learning Journal: Class 09	
-- Learning Journal: Class 10	
+- Learning Journal: Class 06	*Complete*
+- Learning Journal: Class 07	*Complete*
+- Learning Journal: Class 08	*Complete*
+- Learning Journal: Class 09	*Complete*
+- Learning Journal: Class 10	*Complete*
 #### Week 3
 - Learning Journal: Class 11	
 - Learning Journal: Class 12	
@@ -213,12 +213,12 @@
 - [Career Coaching Workshop #1: Completed Resume]() *Complete*
 - [Career: Partner Power Hour - Report #1]() *Complete*
 #### Week 2
-- Career Coaching Workshop #2 Prep - Personal Pitch	
-- Career Coaching Workshop #2 Prep - Stage Fright	
-- Career Coaching Workshop #2 Prep - Your Why	
-- Career Coaching Workshop #2: Completed Personal Pitch	
-- Career: Partner Power Hour - Report #2	
-- Career Coaching Workshop #2: Set a Networking Appointment	
+- Career Coaching Workshop #2 Prep - Personal Pitch	*Complete*
+- Career Coaching Workshop #2 Prep - Stage Fright	*Complete*
+- Career Coaching Workshop #2 Prep - Your Why	*Complete*
+- Career Coaching Workshop #2: Completed Personal Pitch	*Complete*
+- Career: Partner Power Hour - Report #2	*Complete*
+- Career Coaching Workshop #2: Set a Networking Appointment	*Complete*
 #### Week 3
 - Career Coaching Workshop #3: Professional and Personal Development	
 - Career Coaching Workshop #3: Targeted Job Search	
@@ -265,11 +265,11 @@
 - [Day 4](Notes/day4.md) *Complete*
 - [Day 5](Notes/day5.md) *Complete*
 #### Week 2
-- [Day 6](Notes/day6.md)
-- [Day 7](Notes/day7.md)
-- [Day 8](Notes/day8.md)
-- [Day 9](Notes/day9.md)
-- [Day 10](Notes/day10.md)
+- [Day 6](Notes/day6.md) *Complete*
+- [Day 7](Notes/day7.md) *Complete*
+- [Day 8](Notes/day8.md) *Complete*
+- [Day 9](Notes/day9.md) *Complete*
+- [Day 10](Notes/day10.md) *Complete*
 #### Week 3
 - [Day 11](Notes/day11.md)
 - [Day 12](Notes/day12.md)
@@ -343,9 +343,9 @@
 
 ### Review:
 #### Week 1
-- Review: Week 1 Quiz	
+- Review: Week 1 Quiz	*Complete*
 #### Week 2
-- Review: Week 2 Quiz	
+- Review: Week 2 Quiz	*Complete*
 #### Week 3
 - Review: Week 3 Quiz	
 #### Week 4
@@ -363,7 +363,7 @@
 #### Week 1
 - [Feedback: Week 1]() *Complete*
 #### Week 2
-- Feedback: Week 2	
+- Feedback: Week 2	*Complete*
 #### Week 3
 - Feedback: Week 3	
 #### Week 4
