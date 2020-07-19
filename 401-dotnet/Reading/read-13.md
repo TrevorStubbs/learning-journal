@@ -12,15 +12,15 @@
 - Can serve as a object-relational mapper (O/RM).
     - Allows developers to work with a db using .NET objects.
 #### The Model
-- A model is made up of the enitity classes and a context object that represents a session with the db. 
-    - A modle can be generated from an exisitng db. (EF Migrations)
+- A model is made up of the entity classes and a context object that represents a session with the db. 
+    - A model can be generated from an existing db. (EF Migrations)
 #### Querying
 - use LINQ
 #### Saving Data
 - [DBContext](https://docs.microsoft.com/en-us/dotnet/api/system.data.entity.dbcontext?view=entity-framework-6.2.0) base class has methods for saving
 
 ## User Secrets
-- User secrets is a sercure way of storing private user information. (API keys, client secrets and connection strings.)
+- User secrets is a secure way of storing private user information. (API keys, client secrets and connection strings.)
     - CSharp version of ENV?
 ### Enabling user secrets
 1. Right click on your project
@@ -40,7 +40,7 @@
     - if using standard local environment it's `%APPDATA%\microsoft\UserSecrets\<userSecretsId>\secrets.json.`
 
 - Open `.csproj` 
-- verify that `<UserSecretsId>ID goes here</UserSecretsId>` exsists
+- verify that `<UserSecretsId>ID goes here</UserSecretsId>` exists
 - add `<DotNetCliToolReference Include="Microsoft.Extensions.SecretManager.Tools" Version="2.0.0" />`
 
 ### Accessing User Secrets withing the controller
@@ -69,8 +69,8 @@ public ImageController(ImagesContext context, IConfiguration configuration)
 }
 ```
 
-- the secrets are accesaable with `Configuration["KEYVALUEHERE"]`
-- for examplet
+- the secrets are accessible with `Configuration["KEYVALUEHERE"]`
+- for examples:
 ``` CSharp
 client.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", 
                 Configuration["myBingAPIKey"]);

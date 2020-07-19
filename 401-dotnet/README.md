@@ -30,8 +30,8 @@
 - [Read: MVC](Reading/read-11.md) *Complete*
 - [Read: Relational Databases](Reading/read-12.md) *Complete*
 - [Read: Code First Migrations](Reading/read-13.md) *Complete*	
-- Read: Intro to APIs	
-- Read: Trees	
+- [Read: Intro to APIs](Reading/read-14.md)	*Complete*
+- [Read: Trees](Reading/read-15.md)	
 #### Week 4
 - Read: Dependency Injection	
 - Read: Refactoring with DTOs	
