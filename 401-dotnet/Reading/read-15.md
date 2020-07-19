@@ -1,5 +1,5 @@
 # Read: Trees
-- Binary Trees and Binary Search Trees
+- [Binary Trees and Binary Search Trees](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
 
 ## Common Terminology
 - Node - Individual item/data that makes up the data structure
