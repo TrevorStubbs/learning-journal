@@ -44,42 +44,42 @@
 - Seed the data using this format:
 ``` CSharp
 protected override void OnModelCreating(ModelBuilder modelBuilder)
+{
+    modelBuilder.Entity<Student>().HasData(
+        new Student
         {
-            modelBuilder.Entity<Student>().HasData(
-                new Student
-                {
-                    Id = 1,
-                    FirstName = "Jack",
-                    LastName = "Shepard",
-                    Birthdate = new DateTime(1970, 3, 5)
-                },
-                new Student
-                {
-                    Id = 2,
-                    FirstName = "Kate",
-                    LastName = "Austin",
-                    Birthdate = new DateTime(1980, 11, 11)
+            Id = 1,
+            FirstName = "Jack",
+            LastName = "Shepard",
+            Birthdate = new DateTime(1970, 3, 5)
+        },
+        new Student
+        {
+            Id = 2,
+            FirstName = "Kate",
+            LastName = "Austin",
+            Birthdate = new DateTime(1980, 11, 11)
 
-                }
-                );
-
-            modelBuilder.Entity<Course>().HasData(
-                new Course
-                {
-                    Id = 1,
-                    CourseCode = "seattle-dotnet-401d11",
-                    Price = 100m,
-                    Technology = Technology.dotNet
-                },
-                new Course
-                {
-                    Id = 2,
-                    CourseCode = "seattle-201d100",
-                    Price = 50m,
-                    Technology = Technology.javascript
-                }
-                );
         }
+        );
+
+    modelBuilder.Entity<Course>().HasData(
+        new Course
+        {
+            Id = 1,
+            CourseCode = "seattle-dotnet-401d11",
+            Price = 100m,
+            Technology = Technology.dotNet
+        },
+        new Course
+        {
+            Id = 2,
+            CourseCode = "seattle-201d100",
+            Price = 50m,
+            Technology = Technology.javascript
+        }
+        );
+}
 ```
 - Make a Controllers Folder - Must be called Controllers
     - Add new API Controller with actions, using Entity Framework
