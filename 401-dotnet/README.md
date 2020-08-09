@@ -39,7 +39,7 @@
 - Read: Calling an API	
 #### Week 5
 #### Week 6
-- Read: Class 26 - Project Retro
+- [Read: Class 26 - Bootstrap and MVC](Reading/read-26.md) *Complete*
 - Read: Intro to Identity		
 - Read: Claims and Application Roles	
 - Read: Policies	
