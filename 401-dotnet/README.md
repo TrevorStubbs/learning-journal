@@ -40,7 +40,7 @@
 #### Week 5
 #### Week 6
 - [Read: Class 26 - Bootstrap and MVC](Reading/read-26.md) *Complete*
-- Read: Intro to Identity		
+- [Readings: Razor Pages](Reading/read-27.md)
 - Read: Claims and Application Roles	
 - Read: Policies	
 - Read: Hash Tables	
