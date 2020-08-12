@@ -203,5 +203,5 @@ services.AddMvc()
     })
     .WithRazorPagesRoot("/path/to/razor/pages");
 ```
-## Razor Pages with .ASP.NET Core 2
+### Razor Pages with .ASP.NET Core 2
 
