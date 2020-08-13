@@ -40,9 +40,9 @@
 #### Week 5
 #### Week 6
 - [Read: Class 26 - Bootstrap and MVC](Reading/read-26.md) *Complete*
-- [Readings: Razor Pages](Reading/read-27.md)
-- [Read: Claims and Application Roles](Reading/read-28.md)
-- Read: Policies	
+- [Readings: Razor Pages](Reading/read-27.md) *Complete*
+- [Read: Layouts](Reading/read-28.md) *Complete*
+- [Read: Policies](Reading/read-29.md) *Complete*
 - Read: Hash Tables	
 #### Week 7
 - Read: Class 31 - View Components	
