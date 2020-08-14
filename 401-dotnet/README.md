@@ -43,7 +43,7 @@
 - [Readings: Razor Pages](Reading/read-27.md) *Complete*
 - [Read: Layouts](Reading/read-28.md) *Complete*
 - [Read: Policies](Reading/read-29.md) *Complete*
-- Read: Hash Tables	
+- [Read: Hash Tables	](Reading/read-30.md) *Complete*
 #### Week 7
 - Read: Class 31 - View Components	
 - Read: Class 32 - OAUTH	
