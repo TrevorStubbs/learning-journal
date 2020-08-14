@@ -45,3 +45,7 @@ public void ConfigureServices(IServiceCollection services)
 
 
 ## Custom Policy Providers
+- Use of IAuthorizationPolicyProvider
+- `GetPolicyAsync` returns an authorization policy for a given name
+- `GetDefaultPolicyAsync` returns the default authorization policy.
+- `GetFallbackPolicyAsync` returns the fallback authorization policy.
