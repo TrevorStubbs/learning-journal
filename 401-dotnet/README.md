@@ -45,7 +45,7 @@
 - [Read: Policies](Reading/read-29.md) *Complete*
 - [Read: Hash Tables	](Reading/read-30.md) *Complete*
 #### Week 7
-- Read: Class 31 - View Components	
+- [Read: Class 31 - Sending Emails](Reading/read-31.md) *Complete*
 - Read: Class 32 - OAUTH	
 - Read: Class 33 - Sass	
 - Read: Class 34 - Auth.NET	
