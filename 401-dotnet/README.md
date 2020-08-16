@@ -47,8 +47,8 @@
 #### Week 7
 - [Read: Class 31 - Sending Emails](Reading/read-31.md) *Complete*
 - [Read: Class 32 - View Components](Reading/read-32.md) *Complete*
-- [Readings: OAUTH](Reading/read-33.md)
-- Read: Class 34 - Auth.NET	
+- [Readings: OAUTH](Reading/read-33.md) *Complete*
+- [Readings: Review DSA](Reading/read-34.md)	
 - Read: Graphs	
 #### Week 8
 - Read: Class 38	
