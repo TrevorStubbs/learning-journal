@@ -48,8 +48,8 @@
 - [Read: Class 31 - Sending Emails](Reading/read-31.md) *Complete*
 - [Read: Class 32 - View Components](Reading/read-32.md) *Complete*
 - [Readings: OAUTH](Reading/read-33.md) *Complete*
-- [Readings: Review DSA](Reading/read-34.md)	
-- Read: Graphs	
+- [Readings: Review DSA](Reading/read-34.md) *Complete*
+- [Read: Graphs](Reading/read-35.md)
 #### Week 8
 - Read: Class 38	
 #### Week 9
