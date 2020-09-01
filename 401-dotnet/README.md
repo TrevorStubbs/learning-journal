@@ -54,7 +54,7 @@
 - Read: Class 38	
 #### Week 9
 - Read: Class 41	
-- Read: Class 42	
+- [Read: Class 42](Reading/read-42.md) *Complete*
 #### Week 10
 
 ### Labs:
@@ -148,7 +148,7 @@
 - Code Challenge: Class 39	
 #### Week 9
 - Code Challenge: Class 41	
-- Code Challenge: Class 42	
+- Code Challenge: Class 42
 - Code Challenge: Class 43	
 - Code Challenge: Class 44	
 #### Week 10
