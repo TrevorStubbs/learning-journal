@@ -1,7 +1,7 @@
 # Graphs
 - [Graphs](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/graphs.html)
 
-## Definitaions
+## Definitions
 1. Vertex - Also called a "node", is a data object that can have zero or more adjacent vertices.
 1. Edge - A connection between 2 nodes
 1. Neighbor - Neighbors of a node are its adjacent nodes (connected by an edge)
@@ -18,7 +18,7 @@
 - A **disconnected** graph is where some vertices may not have edges.
 
 ## Acyclic or Cyclic
-- A cyle is when a node can be traversed through and potentially end up back at itself.
+- A cycle is when a node can be traversed through and potentially end up back at itself.
 - Acyclic Graph 
     - a directed graph without cycles
 - Cyclic
@@ -29,8 +29,8 @@
 1. Adjacency List
 
 ### Adjacency Matrix
-- is represented thorugh a 2D array. if there are `n` verticies, then we are looking at a `nxn` Boolean matrix.
-- each row and column represents each vertiex of the data structure. 
+- is represented through a 2D array. if there are `n` vertices, then we are looking at a `nxn` Boolean matrix.
+- each row and column represents each vertex of the data structure. 
 - 1 for an edge
 - 0 for no edge
 - a *sparse* graph is when there are very few connections.
@@ -38,9 +38,9 @@
 - an undirected graph will always be symmetric.
     - not so for directed graph
 
-### Adjacenccy List - most common
+### Adjacency List - most common
 - Is a collection of linked lists or arrays that list all of the other vertices that are connected.
-- Adjacency lists make it easy to view if one verticies connects to another
+- Adjacency lists make it easy to view if one vertices connects to another
 
 ## Weighted Graphs
 - A graph with numbers assigned to its edges.
@@ -49,14 +49,14 @@
 ## Traversals
 ### Breadth First
 - Breadth first traversal is when you visit all the nodes that are closest to the root as possible.
-    - From there you traverse outwards, level by level, until you have visted all the nodes.
+    - From there you traverse outwards, level by level, until you have visited all the nodes.
 - Start at a specific node.
 - Need to setup a 'flag' for the nodes that have been visited so that we don't enter an infinite loop.
 
 1. `Enqueue` the declared start node into the queue.
 1. create a loop that will run while the queue still has nodes present.
 1. `Dequeue` the first node from the queue
-1. if the `Dequeue`'d node has unvisited child nodes, mark the unvisited children as visted and re-insert them back into the queue.
+1. if the `Dequeue`'d node has unvisited child nodes, mark the unvisited children as visited and re-insert them back into the queue.
 
 ``` Pseudo code
 ALGORITHM BreadthFirst(vertex)
